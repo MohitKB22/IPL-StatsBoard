@@ -1,0 +1,53 @@
+[project]
+name            = "ipl-analytics-dashboard"
+version         = "1.0.0"
+description     = "IPL Advanced Analytics Dashboard with ML Win Probability (2008–2025)"
+readme          = "README.md"
+requires-python = ">=3.9"
+license         = { text = "MIT" }
+keywords        = ["cricket", "IPL", "analytics", "machine-learning", "streamlit"]
+
+[project.urls]
+Repository = "https://github.com/your-org/ipl-dashboard"
+Dashboard  = "https://your-app.streamlit.app"
+
+# ── Ruff (linter + formatter) ──────────────────────────────────────────────────
+[tool.ruff]
+line-length    = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "UP",  # pyupgrade
+]
+ignore = [
+    "E501",  # line too long (handled by formatter)
+    "E731",  # lambda assignment (used in groupby)
+    "F841",  # local variable assigned but never used
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*"    = ["F401", "F811"]
+"notebooks/*" = ["E402", "F401"]
+
+[tool.ruff.format]
+quote-style            = "double"
+indent-style           = "space"
+skip-magic-trailing-comma = false
+
+# ── Pytest ─────────────────────────────────────────────────────────────────────
+[tool.pytest.ini_options]
+testpaths    = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts      = "-v --tb=short -q"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::FutureWarning",
+    "ignore:.*copy.*on.*write.*",
+]

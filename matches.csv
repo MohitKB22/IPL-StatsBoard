@@ -1,0 +1,991 @@
+id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs,super_over,method,umpire1,umpire2
+1,2008,Delhi,2008-03-22,T20,A Nortje,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7,154,20,N,,umpire_A,umpire_B
+2,2008,Delhi,2008-03-23,T20,V Kohli,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,4,126,20,N,,umpire_A,umpire_B
+3,2008,Kolkata,2008-03-24,T20,PA Patel,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,9,152,20,N,,umpire_A,umpire_B
+4,2008,Bengaluru,2008-03-25,T20,JC Buttler,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,7,179,20,N,,umpire_A,umpire_B
+5,2008,Bengaluru,2008-03-26,T20,SK Raina,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,runs,17,163,20,N,,umpire_A,umpire_B
+6,2008,Delhi,2008-03-27,T20,MS Dhoni,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,19,182,20,N,,umpire_A,umpire_B
+7,2008,Delhi,2008-03-28,T20,RP Singh,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,146,20,N,,umpire_A,umpire_B
+8,2008,Chennai,2008-03-29,T20,KL Rahul,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,142,20,N,,umpire_A,umpire_B
+9,2008,Chennai,2008-03-30,T20,NV Ojha,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,1,156,20,N,,umpire_A,umpire_B
+10,2008,Delhi,2008-03-31,T20,Z Khan,"Arun Jaitley Stadium, Delhi",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,4,168,20,N,,umpire_A,umpire_B
+11,2008,Ahmedabad,2008-04-01,T20,SP Narine,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,6,181,20,N,,umpire_A,umpire_B
+12,2008,Jaipur,2008-04-02,T20,SR Watson,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,64,173,20,N,,umpire_A,umpire_B
+13,2008,Bengaluru,2008-04-03,T20,YBK Jaiswal,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,runs,14,173,20,N,,umpire_A,umpire_B
+14,2008,Ahmedabad,2008-04-04,T20,RP Singh,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,runs,29,195,20,N,,umpire_A,umpire_B
+15,2008,Mumbai,2008-04-05,T20,RA Jadeja,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,11,180,20,N,,umpire_A,umpire_B
+16,2008,Mohali,2008-04-06,T20,Shubman Gill,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,4,154,20,N,,umpire_A,umpire_B
+17,2008,Ahmedabad,2008-04-07,T20,AB de Villiers,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Royal Challengers Bengaluru,wickets,4,163,20,N,,umpire_A,umpire_B
+18,2008,Delhi,2008-04-08,T20,KL Rahul,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,3,183,20,N,,umpire_A,umpire_B
+19,2008,Delhi,2008-04-09,T20,YBK Jaiswal,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,5,161,20,N,,umpire_A,umpire_B
+20,2008,Ahmedabad,2008-04-10,T20,SE Marsh,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,5,148,20,N,,umpire_A,umpire_B
+21,2008,Jaipur,2008-04-11,T20,PP Chawla,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,wickets,4,149,20,N,,umpire_A,umpire_B
+22,2008,Bengaluru,2008-04-12,T20,DP Conway,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,133,20,N,,umpire_A,umpire_B
+23,2008,Bengaluru,2008-04-13,T20,MS Dhoni,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Royal Challengers Bengaluru,wickets,6,188,20,N,,umpire_A,umpire_B
+24,2008,Jaipur,2008-04-14,T20,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,wickets,7,135,20,N,,umpire_A,umpire_B
+25,2008,Mohali,2008-04-15,T20,WP Saha,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,runs,1,183,20,N,,umpire_A,umpire_B
+26,2008,Mumbai,2008-04-16,T20,MM Sharma,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,19,171,20,N,,umpire_A,umpire_B
+27,2008,Bengaluru,2008-04-17,T20,RA Jadeja,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,4,171,20,N,,umpire_A,umpire_B
+28,2008,Lucknow,2008-04-18,T20,AB de Villiers,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,21,175,20,N,,umpire_A,umpire_B
+29,2008,Kolkata,2008-04-19,T20,SR Watson,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,42,213,20,N,,umpire_A,umpire_B
+30,2008,Ahmedabad,2008-04-20,T20,KA Pollard,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,runs,17,187,20,N,,umpire_A,umpire_B
+31,2008,Mohali,2008-04-21,T20,SR Watson,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,6,177,20,N,,umpire_A,umpire_B
+32,2008,Chennai,2008-04-22,T20,JJ Bumrah,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,15,176,20,N,,umpire_A,umpire_B
+33,2008,Delhi,2008-04-23,T20,G Gambhir,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,wickets,3,148,20,N,,umpire_A,umpire_B
+34,2008,Mumbai,2008-04-24,T20,AM Rahane,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,no result,0,0,20,N,,umpire_A,umpire_B
+35,2008,Mohali,2008-04-25,T20,KA Pollard,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,7,158,20,N,,umpire_A,umpire_B
+36,2008,Lucknow,2008-04-26,T20,F du Plessis,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,runs,24,182,20,N,,umpire_A,umpire_B
+37,2008,Bengaluru,2008-04-27,T20,RA Jadeja,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Royal Challengers Bengaluru,wickets,4,185,20,N,,umpire_A,umpire_B
+38,2008,Mumbai,2008-04-28,T20,SE Marsh,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,148,20,N,,umpire_A,umpire_B
+39,2008,Jaipur,2008-04-29,T20,RV Uthappa,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,55,192,20,N,,umpire_A,umpire_B
+40,2008,Mumbai,2008-04-30,T20,AM Rahane,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,8,193,20,N,,umpire_A,umpire_B
+41,2008,Mumbai,2008-05-01,T20,SK Raina,"Wankhede Stadium, Mumbai",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Delhi Capitals,runs,53,203,20,N,,umpire_A,umpire_B
+42,2008,Hyderabad,2008-05-02,T20,SS Iyer,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,202,20,N,,umpire_A,umpire_B
+43,2008,Ahmedabad,2008-05-03,T20,AB de Villiers,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,wickets,3,166,20,N,,umpire_A,umpire_B
+44,2008,Chennai,2008-05-04,T20,YS Chahal,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,7,152,20,N,,umpire_A,umpire_B
+45,2008,Kolkata,2008-05-05,T20,AD Russell,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,runs,21,202,20,N,,umpire_A,umpire_B
+46,2008,Mohali,2008-05-06,T20,AB de Villiers,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,161,20,N,,umpire_A,umpire_B
+47,2008,Delhi,2008-05-07,T20,Q de Kock,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,31,175,20,N,,umpire_A,umpire_B
+48,2008,Mohali,2008-05-08,T20,DJ Bravo,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,5,163,20,N,,umpire_A,umpire_B
+49,2008,Bengaluru,2008-05-09,T20,KS Williamson,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,37,220,20,N,,umpire_A,umpire_B
+50,2008,Mohali,2008-05-10,T20,M Morkel,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,runs,49,188,20,N,,umpire_A,umpire_B
+51,2008,Ahmedabad,2008-05-11,T20,RG Sharma,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,24,154,20,N,,umpire_A,umpire_B
+52,2008,Ahmedabad,2008-05-12,T20,RK Singh,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,wickets,5,139,20,N,,umpire_A,umpire_B
+53,2008,Hyderabad,2008-05-13,T20,IK Pathan,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8,196,20,N,,umpire_A,umpire_B
+54,2008,Jaipur,2008-05-14,T20,MS Dhoni,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,wickets,6,168,20,N,,umpire_A,umpire_B
+55,2008,Mohali,2008-05-15,T20,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,,no result,0,0,20,N,,umpire_A,umpire_B
+56,2009,Ahmedabad,2009-03-22,T20,DP Conway,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,22,194,20,N,,umpire_A,umpire_B
+57,2009,Jaipur,2009-03-23,T20,RP Singh,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5,181,20,N,,umpire_A,umpire_B
+58,2009,Jaipur,2009-03-24,T20,IK Pathan,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,wickets,7,188,20,N,,umpire_A,umpire_B
+59,2009,Hyderabad,2009-03-25,T20,CH Gayle,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,56,186,20,N,,umpire_A,umpire_B
+60,2009,Hyderabad,2009-03-26,T20,PA Patel,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,10,167,20,N,,umpire_A,umpire_B
+61,2009,Lucknow,2009-03-27,T20,A Nehra,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,12,173,20,N,,umpire_A,umpire_B
+62,2009,Kolkata,2009-03-28,T20,AD Russell,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,36,173,20,N,,umpire_A,umpire_B
+63,2009,Lucknow,2009-03-29,T20,KA Pollard,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,6,122,20,N,,umpire_A,umpire_B
+64,2009,Lucknow,2009-03-30,T20,KA Pollard,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,53,179,20,N,,umpire_A,umpire_B
+65,2009,Bengaluru,2009-03-31,T20,RK Singh,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,172,20,N,,umpire_A,umpire_B
+66,2009,Lucknow,2009-04-01,T20,JJ Bumrah,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Kolkata Knight Riders,runs,27,180,20,N,,umpire_A,umpire_B
+67,2009,Chennai,2009-04-02,T20,DL Chahar,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,6,186,20,N,,umpire_A,umpire_B
+68,2009,Hyderabad,2009-04-03,T20,AM Mishra,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,runs,1,165,20,N,,umpire_A,umpire_B
+69,2009,Ahmedabad,2009-04-04,T20,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,7,161,20,N,,umpire_A,umpire_B
+70,2009,Mohali,2009-04-05,T20,Mohammed Shami,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4,186,20,N,,umpire_A,umpire_B
+71,2009,Ahmedabad,2009-04-06,T20,AM Mishra,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,183,20,N,,umpire_A,umpire_B
+72,2009,Chennai,2009-04-07,T20,SL Malinga,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,18,162,20,N,,umpire_A,umpire_B
+73,2009,Chennai,2009-04-08,T20,YS Chahal,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,74,176,20,N,,umpire_A,umpire_B
+74,2009,Mumbai,2009-04-09,T20,Shubman Gill,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,1,144,20,N,,umpire_A,umpire_B
+75,2009,Bengaluru,2009-04-10,T20,AM Mishra,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,runs,23,174,20,N,,umpire_A,umpire_B
+76,2009,Bengaluru,2009-04-11,T20,SP Narine,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,139,20,N,,umpire_A,umpire_B
+77,2009,Bengaluru,2009-04-12,T20,M Morkel,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,5,149,20,N,,umpire_A,umpire_B
+78,2009,Mohali,2009-04-13,T20,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,11,187,20,N,,umpire_A,umpire_B
+79,2009,Chennai,2009-04-14,T20,KA Pollard,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,10,186,20,N,,umpire_A,umpire_B
+80,2009,Lucknow,2009-04-15,T20,Mohammed Shami,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,runs,73,186,20,N,,umpire_A,umpire_B
+81,2009,Lucknow,2009-04-16,T20,KL Rahul,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,8,182,20,N,,umpire_A,umpire_B
+82,2009,Mumbai,2009-04-17,T20,YS Chahal,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,50,195,20,N,,umpire_A,umpire_B
+83,2009,Jaipur,2009-04-18,T20,SK Raina,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,17,191,20,N,,umpire_A,umpire_B
+84,2009,Mumbai,2009-04-19,T20,A Nehra,"Wankhede Stadium, Mumbai",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,1,173,20,N,,umpire_A,umpire_B
+85,2009,Ahmedabad,2009-04-20,T20,DP Conway,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,runs,24,196,20,N,,umpire_A,umpire_B
+86,2009,Jaipur,2009-04-21,T20,V Kohli,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,48,193,20,N,,umpire_A,umpire_B
+87,2009,Mohali,2009-04-22,T20,YBK Jaiswal,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,6,165,20,N,,umpire_A,umpire_B
+88,2009,Mumbai,2009-04-23,T20,SP Narine,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,169,20,N,,umpire_A,umpire_B
+89,2009,Chennai,2009-04-24,T20,DJ Bravo,"MA Chidambaram Stadium, Chennai",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,runs,32,186,20,N,,umpire_A,umpire_B
+90,2009,Chennai,2009-04-25,T20,BB McCullum,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,1,185,20,N,,umpire_A,umpire_B
+91,2009,Chennai,2009-04-26,T20,Rashid Khan,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,runs,56,180,20,N,,umpire_A,umpire_B
+92,2009,Delhi,2009-04-27,T20,AM Rahane,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,162,20,N,,umpire_A,umpire_B
+93,2009,Chennai,2009-04-28,T20,RP Singh,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,26,153,20,N,,umpire_A,umpire_B
+94,2009,Mohali,2009-04-29,T20,A Nehra,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,158,20,N,,umpire_A,umpire_B
+95,2009,Hyderabad,2009-04-30,T20,SV Samson,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,14,201,20,N,,umpire_A,umpire_B
+96,2009,Ahmedabad,2009-05-01,T20,Tilak Varma,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,8,157,20,N,,umpire_A,umpire_B
+97,2009,Kolkata,2009-05-02,T20,NV Ojha,"Eden Gardens, Kolkata",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,37,199,20,N,,umpire_A,umpire_B
+98,2009,Hyderabad,2009-05-03,T20,DL Chahar,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,154,20,N,,umpire_A,umpire_B
+99,2009,Bengaluru,2009-05-04,T20,RG Sharma,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,10,190,20,N,,umpire_A,umpire_B
+100,2009,Mumbai,2009-05-05,T20,DP Conway,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7,194,20,N,,umpire_A,umpire_B
+101,2009,Kolkata,2009-05-06,T20,DJ Bravo,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,wickets,6,153,20,N,,umpire_A,umpire_B
+102,2009,Mohali,2009-05-07,T20,YS Chahal,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7,187,20,N,,umpire_A,umpire_B
+103,2009,Lucknow,2009-05-08,T20,AD Russell,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,134,20,N,,umpire_A,umpire_B
+104,2009,Delhi,2009-05-09,T20,Q de Kock,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,5,180,20,N,,umpire_A,umpire_B
+105,2009,Lucknow,2009-05-10,T20,M Morkel,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,4,111,20,N,,umpire_A,umpire_B
+106,2009,Kolkata,2009-05-11,T20,SK Raina,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,45,173,20,N,,umpire_A,umpire_B
+107,2009,Chennai,2009-05-12,T20,SV Samson,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,wickets,5,171,20,N,,umpire_A,umpire_B
+108,2009,Chennai,2009-05-13,T20,Harbhajan Singh,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,2,168,20,N,,umpire_A,umpire_B
+109,2009,Bengaluru,2009-05-14,T20,SE Marsh,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,runs,10,173,20,N,,umpire_A,umpire_B
+110,2009,Chennai,2009-05-15,T20,CH Gayle,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,6,193,20,N,,umpire_A,umpire_B
+111,2010,Delhi,2010-03-22,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,wickets,1,160,20,N,,umpire_A,umpire_B
+112,2010,Jaipur,2010-03-23,T20,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,165,20,N,,umpire_A,umpire_B
+113,2010,Jaipur,2010-03-24,T20,V Kohli,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,5,160,20,N,,umpire_A,umpire_B
+114,2010,Chennai,2010-03-25,T20,F du Plessis,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,,no result,0,0,20,N,,umpire_A,umpire_B
+115,2010,Hyderabad,2010-03-26,T20,G Gambhir,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,10,204,20,N,,umpire_A,umpire_B
+116,2010,Mohali,2010-03-27,T20,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,4,159,20,N,,umpire_A,umpire_B
+117,2010,Kolkata,2010-03-28,T20,WP Saha,"Eden Gardens, Kolkata",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,29,209,20,N,,umpire_A,umpire_B
+118,2010,Kolkata,2010-03-29,T20,DA Warner,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,148,20,N,,umpire_A,umpire_B
+119,2010,Mumbai,2010-03-30,T20,Z Khan,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,6,158,20,N,,umpire_A,umpire_B
+120,2010,Mumbai,2010-03-31,T20,Rashid Khan,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,13,187,20,N,,umpire_A,umpire_B
+121,2010,Mohali,2010-04-01,T20,AD Russell,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,41,217,20,N,,umpire_A,umpire_B
+122,2010,Mohali,2010-04-02,T20,RK Singh,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,runs,2,161,20,N,,umpire_A,umpire_B
+123,2010,Lucknow,2010-04-03,T20,Z Khan,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,wickets,8,158,20,N,,umpire_A,umpire_B
+124,2010,Ahmedabad,2010-04-04,T20,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2,155,20,N,,umpire_A,umpire_B
+125,2010,Jaipur,2010-04-05,T20,KV Sharma,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,16,170,20,N,,umpire_A,umpire_B
+126,2010,Kolkata,2010-04-06,T20,A Nortje,"Eden Gardens, Kolkata",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,148,20,N,,umpire_A,umpire_B
+127,2010,Ahmedabad,2010-04-07,T20,RV Uthappa,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,1,133,20,N,,umpire_A,umpire_B
+128,2010,Lucknow,2010-04-08,T20,B Kumar,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,5,161,20,N,,umpire_A,umpire_B
+129,2010,Ahmedabad,2010-04-09,T20,Shubman Gill,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,runs,95,167,20,N,,umpire_A,umpire_B
+130,2010,Kolkata,2010-04-10,T20,SR Watson,"Eden Gardens, Kolkata",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,wickets,6,156,20,N,,umpire_A,umpire_B
+131,2010,Bengaluru,2010-04-11,T20,WP Saha,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3,161,20,N,,umpire_A,umpire_B
+132,2010,Kolkata,2010-04-12,T20,M Morkel,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,17,186,20,N,,umpire_A,umpire_B
+133,2010,Lucknow,2010-04-13,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+134,2010,Lucknow,2010-04-14,T20,SL Malinga,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,7,194,20,N,,umpire_A,umpire_B
+135,2010,Lucknow,2010-04-15,T20,M Morkel,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,29,192,20,N,,umpire_A,umpire_B
+136,2010,Delhi,2010-04-16,T20,SR Watson,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,wickets,4,157,20,N,,umpire_A,umpire_B
+137,2010,Kolkata,2010-04-17,T20,KA Pollard,"Eden Gardens, Kolkata",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,16,186,20,N,,umpire_A,umpire_B
+138,2010,Mumbai,2010-04-18,T20,DP Conway,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,1,164,20,N,,umpire_A,umpire_B
+139,2010,Bengaluru,2010-04-19,T20,BB McCullum,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,28,175,20,N,,umpire_A,umpire_B
+140,2010,Delhi,2010-04-20,T20,AD Russell,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,20,183,20,N,,umpire_A,umpire_B
+141,2010,Bengaluru,2010-04-21,T20,AM Rahane,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,31,178,20,N,,umpire_A,umpire_B
+142,2010,Bengaluru,2010-04-22,T20,PA Patel,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,26,179,20,N,,umpire_A,umpire_B
+143,2010,Lucknow,2010-04-23,T20,HH Pandya,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,runs,29,198,20,N,,umpire_A,umpire_B
+144,2010,Mohali,2010-04-24,T20,Z Khan,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5,166,20,N,,umpire_A,umpire_B
+145,2010,Mohali,2010-04-25,T20,KA Pollard,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,wickets,6,162,20,N,,umpire_A,umpire_B
+146,2010,Lucknow,2010-04-26,T20,HH Pandya,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,48,198,20,N,,umpire_A,umpire_B
+147,2010,Mumbai,2010-04-27,T20,YBK Jaiswal,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,7,171,20,N,,umpire_A,umpire_B
+148,2010,Mohali,2010-04-28,T20,IK Pathan,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,152,20,N,,umpire_A,umpire_B
+149,2010,Hyderabad,2010-04-29,T20,YS Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,11,195,20,N,,umpire_A,umpire_B
+150,2010,Bengaluru,2010-04-30,T20,HH Pandya,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,runs,53,164,20,N,,umpire_A,umpire_B
+151,2010,Ahmedabad,2010-05-01,T20,A Nortje,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,56,200,20,N,,umpire_A,umpire_B
+152,2010,Hyderabad,2010-05-02,T20,SS Iyer,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,25,191,20,N,,umpire_A,umpire_B
+153,2010,Chennai,2010-05-03,T20,MS Dhoni,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9,166,20,N,,umpire_A,umpire_B
+154,2010,Lucknow,2010-05-04,T20,AM Rahane,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,12,175,20,N,,umpire_A,umpire_B
+155,2010,Jaipur,2010-05-05,T20,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,3,158,20,N,,umpire_A,umpire_B
+156,2010,Mohali,2010-05-06,T20,RG Sharma,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,wickets,5,168,20,N,,umpire_A,umpire_B
+157,2010,Ahmedabad,2010-05-07,T20,DA Warner,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,169,20,N,,umpire_A,umpire_B
+158,2010,Ahmedabad,2010-05-08,T20,JJ Bumrah,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8,133,20,N,,umpire_A,umpire_B
+159,2010,Bengaluru,2010-05-09,T20,Q de Kock,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,wickets,5,181,20,N,,umpire_A,umpire_B
+160,2010,Delhi,2010-05-10,T20,KV Sharma,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,runs,16,180,20,N,,umpire_A,umpire_B
+161,2010,Kolkata,2010-05-11,T20,MS Dhoni,"Eden Gardens, Kolkata",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+162,2010,Mohali,2010-05-12,T20,MS Dhoni,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,21,200,20,N,,umpire_A,umpire_B
+163,2010,Chennai,2010-05-13,T20,SP Narine,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,5,147,20,N,,umpire_A,umpire_B
+164,2010,Lucknow,2010-05-14,T20,DP Conway,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,23,174,20,N,,umpire_A,umpire_B
+165,2010,Lucknow,2010-05-15,T20,KA Pollard,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,wickets,3,165,20,N,,umpire_A,umpire_B
+166,2011,Jaipur,2011-03-22,T20,SV Samson,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,25,191,20,N,,umpire_A,umpire_B
+167,2011,Lucknow,2011-03-23,T20,RP Singh,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,runs,42,197,20,N,,umpire_A,umpire_B
+168,2011,Mohali,2011-03-24,T20,SK Raina,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,165,20,N,,umpire_A,umpire_B
+169,2011,Mumbai,2011-03-25,T20,Rashid Khan,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,4,166,20,N,,umpire_A,umpire_B
+170,2011,Hyderabad,2011-03-26,T20,JJ Bumrah,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,wickets,7,196,20,N,,umpire_A,umpire_B
+171,2011,Jaipur,2011-03-27,T20,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,5,188,20,N,,umpire_A,umpire_B
+172,2011,Jaipur,2011-03-28,T20,Tilak Varma,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,20,205,20,N,,umpire_A,umpire_B
+173,2011,Mohali,2011-03-29,T20,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,150,20,N,,umpire_A,umpire_B
+174,2011,Chennai,2011-03-30,T20,NV Ojha,"MA Chidambaram Stadium, Chennai",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7,225,20,N,,umpire_A,umpire_B
+175,2011,Kolkata,2011-03-31,T20,RA Jadeja,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,31,172,20,N,,umpire_A,umpire_B
+176,2011,Lucknow,2011-04-01,T20,RG Sharma,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,wickets,2,147,20,N,,umpire_A,umpire_B
+177,2011,Jaipur,2011-04-02,T20,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,runs,10,167,20,N,,umpire_A,umpire_B
+178,2011,Chennai,2011-04-03,T20,YS Chahal,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,29,192,20,N,,umpire_A,umpire_B
+179,2011,Bengaluru,2011-04-04,T20,AB de Villiers,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,wickets,5,157,20,N,,umpire_A,umpire_B
+180,2011,Chennai,2011-04-05,T20,KL Rahul,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,3,163,20,N,,umpire_A,umpire_B
+181,2011,Mohali,2011-04-06,T20,Shubman Gill,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+182,2011,Bengaluru,2011-04-07,T20,T Natarajan,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5,180,20,N,,umpire_A,umpire_B
+183,2011,Mohali,2011-04-08,T20,SP Narine,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,wickets,4,173,20,N,,umpire_A,umpire_B
+184,2011,Ahmedabad,2011-04-09,T20,B Kumar,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,runs,14,197,20,N,,umpire_A,umpire_B
+185,2011,Delhi,2011-04-10,T20,SS Iyer,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,wickets,6,161,20,N,,umpire_A,umpire_B
+186,2011,Ahmedabad,2011-04-11,T20,JC Buttler,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,wickets,5,165,20,N,,umpire_A,umpire_B
+187,2011,Bengaluru,2011-04-12,T20,HH Pandya,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+188,2011,Lucknow,2011-04-13,T20,YS Chahal,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,6,177,20,N,,umpire_A,umpire_B
+189,2011,Chennai,2011-04-14,T20,Rashid Khan,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,wickets,1,163,20,N,,umpire_A,umpire_B
+190,2011,Hyderabad,2011-04-15,T20,NV Ojha,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,wickets,5,145,20,N,,umpire_A,umpire_B
+191,2011,Hyderabad,2011-04-16,T20,B Kumar,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,44,223,20,N,,umpire_A,umpire_B
+192,2011,Lucknow,2011-04-17,T20,JC Buttler,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,187,20,N,,umpire_A,umpire_B
+193,2011,Ahmedabad,2011-04-18,T20,NV Ojha,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,154,20,N,,umpire_A,umpire_B
+194,2011,Mumbai,2011-04-19,T20,YS Chahal,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,runs,32,194,20,N,,umpire_A,umpire_B
+195,2011,Kolkata,2011-04-20,T20,SK Raina,"Eden Gardens, Kolkata",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,runs,26,204,20,N,,umpire_A,umpire_B
+196,2011,Ahmedabad,2011-04-21,T20,JJ Bumrah,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,8,74,20,N,,umpire_A,umpire_B
+197,2011,Hyderabad,2011-04-22,T20,PA Patel,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,runs,14,180,20,N,,umpire_A,umpire_B
+198,2011,Mumbai,2011-04-23,T20,RK Singh,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+199,2011,Kolkata,2011-04-24,T20,KV Sharma,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,10,169,20,N,,umpire_A,umpire_B
+200,2011,Ahmedabad,2011-04-25,T20,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,runs,39,196,20,N,,umpire_A,umpire_B
+201,2011,Jaipur,2011-04-26,T20,HH Pandya,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,7,168,20,N,,umpire_A,umpire_B
+202,2011,Kolkata,2011-04-27,T20,RA Jadeja,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,44,212,20,N,,umpire_A,umpire_B
+203,2011,Mumbai,2011-04-28,T20,WP Saha,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,10,120,20,N,,umpire_A,umpire_B
+204,2011,Kolkata,2011-04-29,T20,KS Williamson,"Eden Gardens, Kolkata",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,42,191,20,N,,umpire_A,umpire_B
+205,2011,Ahmedabad,2011-04-30,T20,DL Chahar,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,wickets,4,144,20,N,,umpire_A,umpire_B
+206,2011,Ahmedabad,2011-05-01,T20,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,runs,11,180,20,N,,umpire_A,umpire_B
+207,2011,Ahmedabad,2011-05-02,T20,PP Chawla,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Punjab Kings,runs,18,189,20,N,,umpire_A,umpire_B
+208,2011,Chennai,2011-05-03,T20,RK Singh,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+209,2011,Mohali,2011-05-04,T20,DA Warner,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,0,170,20,N,,umpire_A,umpire_B
+210,2011,Mumbai,2011-05-05,T20,Tilak Varma,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,6,142,20,N,,umpire_A,umpire_B
+211,2011,Kolkata,2011-05-06,T20,Shubman Gill,"Eden Gardens, Kolkata",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+212,2011,Delhi,2011-05-07,T20,G Gambhir,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,runs,4,167,20,N,,umpire_A,umpire_B
+213,2011,Kolkata,2011-05-08,T20,MS Dhoni,"Eden Gardens, Kolkata",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,28,177,20,N,,umpire_A,umpire_B
+214,2011,Chennai,2011-05-09,T20,Tilak Varma,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,63,199,20,N,,umpire_A,umpire_B
+215,2011,Kolkata,2011-05-10,T20,AM Mishra,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,166,20,N,,umpire_A,umpire_B
+216,2011,Kolkata,2011-05-11,T20,AM Mishra,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,no result,0,0,20,N,,umpire_A,umpire_B
+217,2011,Lucknow,2011-05-12,T20,KV Sharma,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,3,186,20,N,,umpire_A,umpire_B
+218,2011,Kolkata,2011-05-13,T20,RA Jadeja,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,17,188,20,N,,umpire_A,umpire_B
+219,2011,Chennai,2011-05-14,T20,Mohammed Shami,"MA Chidambaram Stadium, Chennai",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,193,20,N,,umpire_A,umpire_B
+220,2011,Chennai,2011-05-15,T20,F du Plessis,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,2,163,20,N,,umpire_A,umpire_B
+221,2012,Kolkata,2012-03-22,T20,Rashid Khan,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,181,20,N,,umpire_A,umpire_B
+222,2012,Ahmedabad,2012-03-23,T20,SL Malinga,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,wickets,5,162,20,N,,umpire_A,umpire_B
+223,2012,Kolkata,2012-03-24,T20,RK Singh,"Eden Gardens, Kolkata",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,2,199,20,N,,umpire_A,umpire_B
+224,2012,Mohali,2012-03-25,T20,Shubman Gill,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,wickets,6,193,20,N,,umpire_A,umpire_B
+225,2012,Jaipur,2012-03-26,T20,KA Pollard,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,wickets,7,121,20,N,,umpire_A,umpire_B
+226,2012,Ahmedabad,2012-03-27,T20,SK Raina,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,36,195,20,N,,umpire_A,umpire_B
+227,2012,Jaipur,2012-03-28,T20,IK Pathan,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,7,158,20,N,,umpire_A,umpire_B
+228,2012,Bengaluru,2012-03-29,T20,MS Dhoni,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,6,156,20,N,,umpire_A,umpire_B
+229,2012,Mohali,2012-03-30,T20,RA Jadeja,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,3,153,20,N,,umpire_A,umpire_B
+230,2012,Delhi,2012-03-31,T20,V Kohli,"Arun Jaitley Stadium, Delhi",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,runs,0,189,20,N,,umpire_A,umpire_B
+231,2012,Bengaluru,2012-04-01,T20,RA Jadeja,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,35,204,20,N,,umpire_A,umpire_B
+232,2012,Ahmedabad,2012-04-02,T20,KL Rahul,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,6,180,20,N,,umpire_A,umpire_B
+233,2012,Chennai,2012-04-03,T20,G Gambhir,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,43,229,20,N,,umpire_A,umpire_B
+234,2012,Mumbai,2012-04-04,T20,Mohammed Shami,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,61,184,20,N,,umpire_A,umpire_B
+235,2012,Jaipur,2012-04-05,T20,AD Russell,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,runs,7,183,20,N,,umpire_A,umpire_B
+236,2012,Ahmedabad,2012-04-06,T20,IK Pathan,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,51,194,20,N,,umpire_A,umpire_B
+237,2012,Bengaluru,2012-04-07,T20,G Gambhir,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,150,20,N,,umpire_A,umpire_B
+238,2012,Delhi,2012-04-08,T20,AD Russell,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,runs,72,210,20,N,,umpire_A,umpire_B
+239,2012,Mohali,2012-04-09,T20,Shubman Gill,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,4,174,20,N,,umpire_A,umpire_B
+240,2012,Mohali,2012-04-10,T20,YBK Jaiswal,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7,178,20,N,,umpire_A,umpire_B
+241,2012,Hyderabad,2012-04-11,T20,A Nehra,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,runs,9,173,20,N,,umpire_A,umpire_B
+242,2012,Chennai,2012-04-12,T20,AM Mishra,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,16,185,20,N,,umpire_A,umpire_B
+243,2012,Ahmedabad,2012-04-13,T20,JC Buttler,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,runs,3,177,20,N,,umpire_A,umpire_B
+244,2012,Kolkata,2012-04-14,T20,HH Pandya,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,runs,47,208,20,N,,umpire_A,umpire_B
+245,2012,Mumbai,2012-04-15,T20,KL Rahul,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,5,143,20,N,,umpire_A,umpire_B
+246,2012,Delhi,2012-04-16,T20,AB de Villiers,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,3,165,20,N,,umpire_A,umpire_B
+247,2012,Mumbai,2012-04-17,T20,JC Buttler,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,24,191,20,N,,umpire_A,umpire_B
+248,2012,Ahmedabad,2012-04-18,T20,Tilak Varma,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,30,206,20,N,,umpire_A,umpire_B
+249,2012,Delhi,2012-04-19,T20,SV Samson,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,5,165,20,N,,umpire_A,umpire_B
+250,2012,Mohali,2012-04-20,T20,HH Pandya,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,190,20,N,,umpire_A,umpire_B
+251,2012,Jaipur,2012-04-21,T20,A Nortje,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4,173,20,N,,umpire_A,umpire_B
+252,2012,Lucknow,2012-04-22,T20,KL Rahul,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,165,20,N,,umpire_A,umpire_B
+253,2012,Mumbai,2012-04-23,T20,AB de Villiers,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,5,147,20,N,,umpire_A,umpire_B
+254,2012,Delhi,2012-04-24,T20,MM Sharma,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,9,130,20,N,,umpire_A,umpire_B
+255,2012,Jaipur,2012-04-25,T20,YBK Jaiswal,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,137,20,N,,umpire_A,umpire_B
+256,2012,Delhi,2012-04-26,T20,M Morkel,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,105,20,N,,umpire_A,umpire_B
+257,2012,Chennai,2012-04-27,T20,Shubman Gill,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,wickets,6,173,20,N,,umpire_A,umpire_B
+258,2012,Bengaluru,2012-04-28,T20,A Nortje,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,wickets,4,180,20,N,,umpire_A,umpire_B
+259,2012,Jaipur,2012-04-29,T20,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,wickets,5,167,20,N,,umpire_A,umpire_B
+260,2012,Kolkata,2012-04-30,T20,YBK Jaiswal,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,3,160,20,N,,umpire_A,umpire_B
+261,2012,Hyderabad,2012-05-01,T20,YS Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,4,149,20,N,,umpire_A,umpire_B
+262,2012,Lucknow,2012-05-02,T20,AD Russell,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,31,173,20,N,,umpire_A,umpire_B
+263,2012,Kolkata,2012-05-03,T20,F du Plessis,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,3,160,20,N,,umpire_A,umpire_B
+264,2012,Mohali,2012-05-04,T20,AM Mishra,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,wickets,7,163,20,N,,umpire_A,umpire_B
+265,2012,Hyderabad,2012-05-05,T20,Mohammed Shami,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,9,150,20,N,,umpire_A,umpire_B
+266,2012,Jaipur,2012-05-06,T20,A Nehra,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,6,164,20,N,,umpire_A,umpire_B
+267,2012,Jaipur,2012-05-07,T20,Avesh Khan,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Kolkata Knight Riders,runs,9,164,20,N,,umpire_A,umpire_B
+268,2012,Mohali,2012-05-08,T20,PP Chawla,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,5,169,20,N,,umpire_A,umpire_B
+269,2012,Chennai,2012-05-09,T20,RG Sharma,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,wickets,7,183,20,N,,umpire_A,umpire_B
+270,2012,Ahmedabad,2012-05-10,T20,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,Delhi Capitals,field,,no result,0,0,20,N,,umpire_A,umpire_B
+271,2012,Kolkata,2012-05-11,T20,PA Patel,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,5,158,20,N,,umpire_A,umpire_B
+272,2012,Mumbai,2012-05-12,T20,Shubman Gill,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,63,156,20,N,,umpire_A,umpire_B
+273,2012,Mohali,2012-05-13,T20,Rashid Khan,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8,159,20,N,,umpire_A,umpire_B
+274,2012,Bengaluru,2012-05-14,T20,BB McCullum,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Chennai Super Kings,wickets,4,167,20,N,,umpire_A,umpire_B
+275,2012,Mohali,2012-05-15,T20,SK Raina,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,152,20,N,,umpire_A,umpire_B
+276,2013,Kolkata,2013-03-22,T20,MM Sharma,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,0,180,20,N,,umpire_A,umpire_B
+277,2013,Delhi,2013-03-23,T20,DP Conway,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,177,20,N,,umpire_A,umpire_B
+278,2013,Lucknow,2013-03-24,T20,JJ Bumrah,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5,182,20,N,,umpire_A,umpire_B
+279,2013,Hyderabad,2013-03-25,T20,DJ Bravo,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,49,198,20,N,,umpire_A,umpire_B
+280,2013,Lucknow,2013-03-26,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,29,203,20,N,,umpire_A,umpire_B
+281,2013,Hyderabad,2013-03-27,T20,Mohammed Shami,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,7,135,20,N,,umpire_A,umpire_B
+282,2013,Lucknow,2013-03-28,T20,SP Narine,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,141,20,N,,umpire_A,umpire_B
+283,2013,Chennai,2013-03-29,T20,G Gambhir,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,166,20,N,,umpire_A,umpire_B
+284,2013,Delhi,2013-03-30,T20,V Kohli,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,3,177,20,N,,umpire_A,umpire_B
+285,2013,Lucknow,2013-03-31,T20,PA Patel,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+286,2013,Delhi,2013-04-01,T20,Harbhajan Singh,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,173,20,N,,umpire_A,umpire_B
+287,2013,Chennai,2013-04-02,T20,PA Patel,"MA Chidambaram Stadium, Chennai",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,runs,16,175,20,N,,umpire_A,umpire_B
+288,2013,Bengaluru,2013-04-03,T20,RG Sharma,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,runs,34,196,20,N,,umpire_A,umpire_B
+289,2013,Bengaluru,2013-04-04,T20,Mohammed Shami,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,wickets,2,162,20,N,,umpire_A,umpire_B
+290,2013,Lucknow,2013-04-05,T20,A Nehra,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,7,169,20,N,,umpire_A,umpire_B
+291,2013,Hyderabad,2013-04-06,T20,YBK Jaiswal,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,2,173,20,N,,umpire_A,umpire_B
+292,2013,Chennai,2013-04-07,T20,RA Jadeja,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,wickets,6,162,20,N,,umpire_A,umpire_B
+293,2013,Jaipur,2013-04-08,T20,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,9,128,20,N,,umpire_A,umpire_B
+294,2013,Ahmedabad,2013-04-09,T20,KV Sharma,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,4,161,20,N,,umpire_A,umpire_B
+295,2013,Hyderabad,2013-04-10,T20,T Natarajan,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,2,184,20,N,,umpire_A,umpire_B
+296,2013,Chennai,2013-04-11,T20,SV Samson,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,11,173,20,N,,umpire_A,umpire_B
+297,2013,Bengaluru,2013-04-12,T20,RG Sharma,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11,189,20,N,,umpire_A,umpire_B
+298,2013,Kolkata,2013-04-13,T20,A Nortje,"Eden Gardens, Kolkata",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,wickets,4,147,20,N,,umpire_A,umpire_B
+299,2013,Kolkata,2013-04-14,T20,DP Conway,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,8,159,20,N,,umpire_A,umpire_B
+300,2013,Delhi,2013-04-15,T20,PP Chawla,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,28,175,20,N,,umpire_A,umpire_B
+301,2013,Bengaluru,2013-04-16,T20,KA Pollard,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,77,199,20,N,,umpire_A,umpire_B
+302,2013,Bengaluru,2013-04-17,T20,HH Pandya,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,6,192,20,N,,umpire_A,umpire_B
+303,2013,Mohali,2013-04-18,T20,V Kohli,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,5,189,20,N,,umpire_A,umpire_B
+304,2013,Bengaluru,2013-04-19,T20,RV Uthappa,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,wickets,9,168,20,N,,umpire_A,umpire_B
+305,2013,Chennai,2013-04-20,T20,JC Buttler,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,5,158,20,N,,umpire_A,umpire_B
+306,2013,Delhi,2013-04-21,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,wickets,3,154,20,N,,umpire_A,umpire_B
+307,2013,Jaipur,2013-04-22,T20,KS Williamson,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,runs,40,128,20,N,,umpire_A,umpire_B
+308,2013,Jaipur,2013-04-23,T20,Avesh Khan,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,5,190,20,N,,umpire_A,umpire_B
+309,2013,Lucknow,2013-04-24,T20,SV Samson,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,wickets,4,171,20,N,,umpire_A,umpire_B
+310,2013,Jaipur,2013-04-25,T20,DL Chahar,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7,163,20,N,,umpire_A,umpire_B
+311,2013,Bengaluru,2013-04-26,T20,RP Singh,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Punjab Kings,runs,7,198,20,N,,umpire_A,umpire_B
+312,2013,Jaipur,2013-04-27,T20,DP Conway,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6,176,20,N,,umpire_A,umpire_B
+313,2013,Kolkata,2013-04-28,T20,DJ Bravo,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,7,106,20,N,,umpire_A,umpire_B
+314,2013,Hyderabad,2013-04-29,T20,AM Rahane,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,4,144,20,N,,umpire_A,umpire_B
+315,2013,Ahmedabad,2013-04-30,T20,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,136,20,N,,umpire_A,umpire_B
+316,2013,Kolkata,2013-05-01,T20,KL Rahul,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,5,200,20,N,,umpire_A,umpire_B
+317,2013,Mumbai,2013-05-02,T20,SK Raina,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,runs,1,178,20,N,,umpire_A,umpire_B
+318,2013,Jaipur,2013-05-03,T20,A Nehra,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,1,156,20,N,,umpire_A,umpire_B
+319,2013,Delhi,2013-05-04,T20,BB McCullum,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,19,159,20,N,,umpire_A,umpire_B
+320,2013,Bengaluru,2013-05-05,T20,A Nehra,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,5,179,20,N,,umpire_A,umpire_B
+321,2013,Hyderabad,2013-05-06,T20,JC Buttler,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,8,175,20,N,,umpire_A,umpire_B
+322,2013,Mumbai,2013-05-07,T20,AM Mishra,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,runs,15,186,20,N,,umpire_A,umpire_B
+323,2013,Bengaluru,2013-05-08,T20,B Kumar,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,162,20,N,,umpire_A,umpire_B
+324,2013,Ahmedabad,2013-05-09,T20,Z Khan,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,8,142,20,N,,umpire_A,umpire_B
+325,2013,Bengaluru,2013-05-10,T20,RA Jadeja,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,3,117,20,N,,umpire_A,umpire_B
+326,2013,Hyderabad,2013-05-11,T20,DA Warner,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Delhi Capitals,runs,3,182,20,N,,umpire_A,umpire_B
+327,2013,Mohali,2013-05-12,T20,AM Rahane,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,5,154,20,N,,umpire_A,umpire_B
+328,2013,Chennai,2013-05-13,T20,AD Russell,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,7,166,20,N,,umpire_A,umpire_B
+329,2013,Bengaluru,2013-05-14,T20,PP Chawla,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,1,189,20,N,,umpire_A,umpire_B
+330,2013,Jaipur,2013-05-15,T20,SE Marsh,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,5,164,20,N,,umpire_A,umpire_B
+331,2014,Delhi,2014-03-22,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,9,151,20,N,,umpire_A,umpire_B
+332,2014,Mumbai,2014-03-23,T20,SE Marsh,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,20,179,20,N,,umpire_A,umpire_B
+333,2014,Mumbai,2014-03-24,T20,DP Conway,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,64,219,20,N,,umpire_A,umpire_B
+334,2014,Jaipur,2014-03-25,T20,JJ Bumrah,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,wickets,1,179,20,N,,umpire_A,umpire_B
+335,2014,Chennai,2014-03-26,T20,IK Pathan,"MA Chidambaram Stadium, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,runs,33,195,20,N,,umpire_A,umpire_B
+336,2014,Ahmedabad,2014-03-27,T20,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,61,208,20,N,,umpire_A,umpire_B
+337,2014,Chennai,2014-03-28,T20,SE Marsh,"MA Chidambaram Stadium, Chennai",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,191,20,N,,umpire_A,umpire_B
+338,2014,Lucknow,2014-03-29,T20,RA Jadeja,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,0,170,20,N,,umpire_A,umpire_B
+339,2014,Lucknow,2014-03-30,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,12,159,20,N,,umpire_A,umpire_B
+340,2014,Lucknow,2014-03-31,T20,Mohammed Shami,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,,no result,0,0,20,N,,umpire_A,umpire_B
+341,2014,Mohali,2014-04-01,T20,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,21,189,20,N,,umpire_A,umpire_B
+342,2014,Ahmedabad,2014-04-02,T20,SE Marsh,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,wickets,7,162,20,N,,umpire_A,umpire_B
+343,2014,Mumbai,2014-04-03,T20,Z Khan,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,,no result,0,0,20,N,,umpire_A,umpire_B
+344,2014,Bengaluru,2014-04-04,T20,AD Russell,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,runs,75,216,20,N,,umpire_A,umpire_B
+345,2014,Mohali,2014-04-05,T20,Mohammed Shami,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6,123,20,N,,umpire_A,umpire_B
+346,2014,Chennai,2014-04-06,T20,Mohammed Shami,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,31,161,20,N,,umpire_A,umpire_B
+347,2014,Lucknow,2014-04-07,T20,DJ Bravo,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,wickets,4,129,20,N,,umpire_A,umpire_B
+348,2014,Hyderabad,2014-04-08,T20,T Natarajan,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,41,197,20,N,,umpire_A,umpire_B
+349,2014,Delhi,2014-04-09,T20,JC Buttler,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,11,158,20,N,,umpire_A,umpire_B
+350,2014,Jaipur,2014-04-10,T20,RV Uthappa,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,14,175,20,N,,umpire_A,umpire_B
+351,2014,Kolkata,2014-04-11,T20,CH Gayle,"Eden Gardens, Kolkata",Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,4,154,20,N,,umpire_A,umpire_B
+352,2014,Jaipur,2014-04-12,T20,AM Mishra,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,3,168,20,N,,umpire_A,umpire_B
+353,2014,Kolkata,2014-04-13,T20,AM Mishra,"Eden Gardens, Kolkata",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,wickets,6,145,20,N,,umpire_A,umpire_B
+354,2014,Chennai,2014-04-14,T20,Shubman Gill,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,runs,16,203,20,N,,umpire_A,umpire_B
+355,2014,Mumbai,2014-04-15,T20,Rashid Khan,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,wickets,6,170,20,N,,umpire_A,umpire_B
+356,2014,Kolkata,2014-04-16,T20,AD Russell,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7,143,20,N,,umpire_A,umpire_B
+357,2014,Bengaluru,2014-04-17,T20,F du Plessis,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4,157,20,N,,umpire_A,umpire_B
+358,2014,Mohali,2014-04-18,T20,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,172,20,N,,umpire_A,umpire_B
+359,2014,Hyderabad,2014-04-19,T20,KL Rahul,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,1,193,20,N,,umpire_A,umpire_B
+360,2014,Ahmedabad,2014-04-20,T20,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,57,207,20,N,,umpire_A,umpire_B
+361,2014,Ahmedabad,2014-04-21,T20,Avesh Khan,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,11,172,20,N,,umpire_A,umpire_B
+362,2014,Mumbai,2014-04-22,T20,B Kumar,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,7,190,20,N,,umpire_A,umpire_B
+363,2014,Jaipur,2014-04-23,T20,BB McCullum,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,runs,9,186,20,N,,umpire_A,umpire_B
+364,2014,Jaipur,2014-04-24,T20,AM Rahane,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,15,207,20,N,,umpire_A,umpire_B
+365,2014,Jaipur,2014-04-25,T20,SK Raina,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,3,180,20,N,,umpire_A,umpire_B
+366,2014,Lucknow,2014-04-26,T20,Mohammed Shami,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Royal Challengers Bengaluru,wickets,4,160,20,N,,umpire_A,umpire_B
+367,2014,Hyderabad,2014-04-27,T20,T Natarajan,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,,no result,0,0,20,N,,umpire_A,umpire_B
+368,2014,Bengaluru,2014-04-28,T20,AM Rahane,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,8,162,20,N,,umpire_A,umpire_B
+369,2014,Delhi,2014-04-29,T20,F du Plessis,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,wickets,5,153,20,N,,umpire_A,umpire_B
+370,2014,Chennai,2014-04-30,T20,A Nehra,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,0,163,20,N,,umpire_A,umpire_B
+371,2014,Mumbai,2014-05-01,T20,RK Singh,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,8,153,20,N,,umpire_A,umpire_B
+372,2014,Ahmedabad,2014-05-02,T20,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Kolkata Knight Riders,runs,16,184,20,N,,umpire_A,umpire_B
+373,2014,Mohali,2014-05-03,T20,Harbhajan Singh,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,wickets,6,123,20,N,,umpire_A,umpire_B
+374,2014,Mumbai,2014-05-04,T20,PP Chawla,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,runs,28,212,20,N,,umpire_A,umpire_B
+375,2014,Mumbai,2014-05-05,T20,SE Marsh,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,46,217,20,N,,umpire_A,umpire_B
+376,2014,Chennai,2014-05-06,T20,CH Gayle,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,13,193,20,N,,umpire_A,umpire_B
+377,2014,Lucknow,2014-05-07,T20,M Morkel,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,39,195,20,N,,umpire_A,umpire_B
+378,2014,Bengaluru,2014-05-08,T20,CH Gayle,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,wickets,5,157,20,N,,umpire_A,umpire_B
+379,2014,Mumbai,2014-05-09,T20,JC Buttler,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,1,158,20,N,,umpire_A,umpire_B
+380,2014,Chennai,2014-05-10,T20,Z Khan,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1,163,20,N,,umpire_A,umpire_B
+381,2014,Hyderabad,2014-05-11,T20,Avesh Khan,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,runs,6,166,20,N,,umpire_A,umpire_B
+382,2014,Chennai,2014-05-12,T20,HH Pandya,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,54,231,20,N,,umpire_A,umpire_B
+383,2014,Chennai,2014-05-13,T20,YS Chahal,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,62,219,20,N,,umpire_A,umpire_B
+384,2014,Mumbai,2014-05-14,T20,YBK Jaiswal,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,14,187,20,N,,umpire_A,umpire_B
+385,2014,Jaipur,2014-05-15,T20,AM Mishra,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,42,208,20,N,,umpire_A,umpire_B
+386,2015,Hyderabad,2015-03-22,T20,AM Mishra,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,12,177,20,N,,umpire_A,umpire_B
+387,2015,Mohali,2015-03-23,T20,DJ Bravo,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,5,155,20,N,,umpire_A,umpire_B
+388,2015,Jaipur,2015-03-24,T20,RP Singh,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5,172,20,N,,umpire_A,umpire_B
+389,2015,Hyderabad,2015-03-25,T20,SP Narine,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,6,165,20,N,,umpire_A,umpire_B
+390,2015,Kolkata,2015-03-26,T20,AD Russell,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,148,20,N,,umpire_A,umpire_B
+391,2015,Kolkata,2015-03-27,T20,MM Sharma,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,126,20,N,,umpire_A,umpire_B
+392,2015,Kolkata,2015-03-28,T20,SL Malinga,"Eden Gardens, Kolkata",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,6,174,20,N,,umpire_A,umpire_B
+393,2015,Chennai,2015-03-29,T20,AB de Villiers,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,runs,31,189,20,N,,umpire_A,umpire_B
+394,2015,Bengaluru,2015-03-30,T20,Rashid Khan,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,49,191,20,N,,umpire_A,umpire_B
+395,2015,Jaipur,2015-03-31,T20,V Kohli,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,34,185,20,N,,umpire_A,umpire_B
+396,2015,Bengaluru,2015-04-01,T20,AM Rahane,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,2,165,20,N,,umpire_A,umpire_B
+397,2015,Jaipur,2015-04-02,T20,Mohammed Shami,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,wickets,4,180,20,N,,umpire_A,umpire_B
+398,2015,Mumbai,2015-04-03,T20,B Kumar,"Wankhede Stadium, Mumbai",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,Royal Challengers Bengaluru,wickets,6,175,20,N,,umpire_A,umpire_B
+399,2015,Chennai,2015-04-04,T20,CH Gayle,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,6,150,20,N,,umpire_A,umpire_B
+400,2015,Mumbai,2015-04-05,T20,DP Conway,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,runs,83,163,20,N,,umpire_A,umpire_B
+401,2015,Kolkata,2015-04-06,T20,DL Chahar,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6,122,20,N,,umpire_A,umpire_B
+402,2015,Hyderabad,2015-04-07,T20,JJ Bumrah,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,runs,38,194,20,N,,umpire_A,umpire_B
+403,2015,Kolkata,2015-04-08,T20,Tilak Varma,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,3,173,20,N,,umpire_A,umpire_B
+404,2015,Kolkata,2015-04-09,T20,Rashid Khan,"Eden Gardens, Kolkata",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,8,105,20,N,,umpire_A,umpire_B
+405,2015,Mumbai,2015-04-10,T20,KS Williamson,"Wankhede Stadium, Mumbai",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,19,167,20,N,,umpire_A,umpire_B
+406,2015,Jaipur,2015-04-11,T20,PP Chawla,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,2,126,20,N,,umpire_A,umpire_B
+407,2015,Kolkata,2015-04-12,T20,KA Pollard,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,wickets,6,200,20,N,,umpire_A,umpire_B
+408,2015,Chennai,2015-04-13,T20,NV Ojha,"MA Chidambaram Stadium, Chennai",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,wickets,9,169,20,N,,umpire_A,umpire_B
+409,2015,Lucknow,2015-04-14,T20,DJ Bravo,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7,168,20,N,,umpire_A,umpire_B
+410,2015,Mumbai,2015-04-15,T20,DL Chahar,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,3,172,20,N,,umpire_A,umpire_B
+411,2015,Hyderabad,2015-04-16,T20,AM Mishra,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,runs,0,151,20,N,,umpire_A,umpire_B
+412,2015,Bengaluru,2015-04-17,T20,MS Dhoni,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,152,20,N,,umpire_A,umpire_B
+413,2015,Mumbai,2015-04-18,T20,Tilak Varma,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,4,187,20,N,,umpire_A,umpire_B
+414,2015,Bengaluru,2015-04-19,T20,RK Singh,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,6,176,20,N,,umpire_A,umpire_B
+415,2015,Lucknow,2015-04-20,T20,YBK Jaiswal,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,8,156,20,N,,umpire_A,umpire_B
+416,2015,Ahmedabad,2015-04-21,T20,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,4,171,20,N,,umpire_A,umpire_B
+417,2015,Jaipur,2015-04-22,T20,V Kohli,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,wickets,5,154,20,N,,umpire_A,umpire_B
+418,2015,Chennai,2015-04-23,T20,Mohammed Shami,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,2,177,20,N,,umpire_A,umpire_B
+419,2015,Delhi,2015-04-24,T20,RK Singh,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,wickets,5,157,20,N,,umpire_A,umpire_B
+420,2015,Hyderabad,2015-04-25,T20,YS Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,31,186,20,N,,umpire_A,umpire_B
+421,2015,Mumbai,2015-04-26,T20,JJ Bumrah,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,wickets,4,145,20,N,,umpire_A,umpire_B
+422,2015,Mumbai,2015-04-27,T20,SK Raina,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,40,197,20,N,,umpire_A,umpire_B
+423,2015,Lucknow,2015-04-28,T20,IK Pathan,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,2,161,20,N,,umpire_A,umpire_B
+424,2015,Jaipur,2015-04-29,T20,SR Watson,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,11,194,20,N,,umpire_A,umpire_B
+425,2015,Hyderabad,2015-04-30,T20,YS Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,37,196,20,N,,umpire_A,umpire_B
+426,2015,Kolkata,2015-05-01,T20,JJ Bumrah,"Eden Gardens, Kolkata",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,runs,64,173,20,N,,umpire_A,umpire_B
+427,2015,Mumbai,2015-05-02,T20,M Morkel,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,wickets,6,180,20,N,,umpire_A,umpire_B
+428,2015,Lucknow,2015-05-03,T20,KS Williamson,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,18,152,20,N,,umpire_A,umpire_B
+429,2015,Jaipur,2015-05-04,T20,WP Saha,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,36,222,20,N,,umpire_A,umpire_B
+430,2015,Delhi,2015-05-05,T20,SL Malinga,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,161,20,N,,umpire_A,umpire_B
+431,2015,Mumbai,2015-05-06,T20,IK Pathan,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,57,220,20,N,,umpire_A,umpire_B
+432,2015,Ahmedabad,2015-05-07,T20,RG Sharma,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,5,93,20,N,,umpire_A,umpire_B
+433,2015,Hyderabad,2015-05-08,T20,RP Singh,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23,199,20,N,,umpire_A,umpire_B
+434,2015,Delhi,2015-05-09,T20,RP Singh,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,3,170,20,N,,umpire_A,umpire_B
+435,2015,Mumbai,2015-05-10,T20,G Gambhir,"Wankhede Stadium, Mumbai",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,runs,17,198,20,N,,umpire_A,umpire_B
+436,2015,Lucknow,2015-05-11,T20,SP Narine,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43,207,20,N,,umpire_A,umpire_B
+437,2015,Jaipur,2015-05-12,T20,KA Pollard,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,32,191,20,N,,umpire_A,umpire_B
+438,2015,Ahmedabad,2015-05-13,T20,PA Patel,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,24,208,20,N,,umpire_A,umpire_B
+439,2015,Mohali,2015-05-14,T20,SV Samson,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,wickets,1,193,20,N,,umpire_A,umpire_B
+440,2015,Hyderabad,2015-05-15,T20,B Kumar,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,6,172,20,N,,umpire_A,umpire_B
+441,2016,Ahmedabad,2016-03-22,T20,WP Saha,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,4,197,20,N,,umpire_A,umpire_B
+442,2016,Kolkata,2016-03-23,T20,AB de Villiers,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,runs,21,184,20,N,,umpire_A,umpire_B
+443,2016,Chennai,2016-03-24,T20,DJ Bravo,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,32,183,20,N,,umpire_A,umpire_B
+444,2016,Bengaluru,2016-03-25,T20,DJ Bravo,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,20,172,20,N,,umpire_A,umpire_B
+445,2016,Lucknow,2016-03-26,T20,SR Watson,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,5,183,20,N,,umpire_A,umpire_B
+446,2016,Chennai,2016-03-27,T20,Rashid Khan,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,157,20,N,,umpire_A,umpire_B
+447,2016,Mohali,2016-03-28,T20,MS Dhoni,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,runs,4,193,20,N,,umpire_A,umpire_B
+448,2016,Chennai,2016-03-29,T20,YBK Jaiswal,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,wickets,8,151,20,N,,umpire_A,umpire_B
+449,2016,Mumbai,2016-03-30,T20,F du Plessis,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,3,164,20,N,,umpire_A,umpire_B
+450,2016,Mohali,2016-03-31,T20,SR Watson,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,3,160,20,N,,umpire_A,umpire_B
+451,2016,Mohali,2016-04-01,T20,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,wickets,6,172,20,N,,umpire_A,umpire_B
+452,2016,Bengaluru,2016-04-02,T20,KS Williamson,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,7,172,20,N,,umpire_A,umpire_B
+453,2016,Mumbai,2016-04-03,T20,HH Pandya,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,,no result,0,0,20,N,,umpire_A,umpire_B
+454,2016,Lucknow,2016-04-04,T20,F du Plessis,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,runs,8,184,20,N,,umpire_A,umpire_B
+455,2016,Delhi,2016-04-05,T20,DJ Bravo,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,2,166,20,N,,umpire_A,umpire_B
+456,2016,Mohali,2016-04-06,T20,WP Saha,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,2,145,20,N,,umpire_A,umpire_B
+457,2016,Lucknow,2016-04-07,T20,SE Marsh,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3,170,20,N,,umpire_A,umpire_B
+458,2016,Mohali,2016-04-08,T20,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4,186,20,N,,umpire_A,umpire_B
+459,2016,Kolkata,2016-04-09,T20,G Gambhir,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,6,154,20,N,,umpire_A,umpire_B
+460,2016,Lucknow,2016-04-10,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Punjab Kings,runs,26,168,20,N,,umpire_A,umpire_B
+461,2016,Kolkata,2016-04-11,T20,T Natarajan,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6,172,20,N,,umpire_A,umpire_B
+462,2016,Hyderabad,2016-04-12,T20,DA Warner,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,3,158,20,N,,umpire_A,umpire_B
+463,2016,Kolkata,2016-04-13,T20,M Morkel,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,12,203,20,N,,umpire_A,umpire_B
+464,2016,Mohali,2016-04-14,T20,KS Williamson,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,5,170,20,N,,umpire_A,umpire_B
+465,2016,Delhi,2016-04-15,T20,RV Uthappa,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,runs,39,197,20,N,,umpire_A,umpire_B
+466,2016,Mohali,2016-04-16,T20,V Kohli,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,runs,50,198,20,N,,umpire_A,umpire_B
+467,2016,Lucknow,2016-04-17,T20,Mohammed Shami,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,runs,12,192,20,N,,umpire_A,umpire_B
+468,2016,Kolkata,2016-04-18,T20,DP Conway,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,7,159,20,N,,umpire_A,umpire_B
+469,2016,Delhi,2016-04-19,T20,Shubman Gill,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,10,189,20,N,,umpire_A,umpire_B
+470,2016,Jaipur,2016-04-20,T20,SV Samson,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,183,20,N,,umpire_A,umpire_B
+471,2016,Hyderabad,2016-04-21,T20,SR Watson,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,159,20,N,,umpire_A,umpire_B
+472,2016,Lucknow,2016-04-22,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,runs,37,179,20,N,,umpire_A,umpire_B
+473,2016,Lucknow,2016-04-23,T20,G Gambhir,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,3,128,20,N,,umpire_A,umpire_B
+474,2016,Mumbai,2016-04-24,T20,YBK Jaiswal,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,22,186,20,N,,umpire_A,umpire_B
+475,2016,Hyderabad,2016-04-25,T20,JJ Bumrah,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,wickets,5,142,20,N,,umpire_A,umpire_B
+476,2016,Lucknow,2016-04-26,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,runs,0,167,20,N,,umpire_A,umpire_B
+477,2016,Chennai,2016-04-27,T20,A Nehra,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7,153,20,N,,umpire_A,umpire_B
+478,2016,Ahmedabad,2016-04-28,T20,SL Malinga,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,runs,53,152,20,N,,umpire_A,umpire_B
+479,2016,Jaipur,2016-04-29,T20,PP Chawla,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5,111,20,N,,umpire_A,umpire_B
+480,2016,Bengaluru,2016-04-30,T20,PP Chawla,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,runs,50,205,20,N,,umpire_A,umpire_B
+481,2016,Hyderabad,2016-05-01,T20,RA Jadeja,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,1,142,20,N,,umpire_A,umpire_B
+482,2016,Bengaluru,2016-05-02,T20,WP Saha,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,153,20,N,,umpire_A,umpire_B
+483,2016,Delhi,2016-05-03,T20,KL Rahul,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,runs,20,186,20,N,,umpire_A,umpire_B
+484,2016,Kolkata,2016-05-04,T20,DL Chahar,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,runs,12,188,20,N,,umpire_A,umpire_B
+485,2016,Hyderabad,2016-05-05,T20,JJ Bumrah,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,1,178,20,N,,umpire_A,umpire_B
+486,2016,Delhi,2016-05-06,T20,Rashid Khan,"Arun Jaitley Stadium, Delhi",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4,170,20,N,,umpire_A,umpire_B
+487,2016,Kolkata,2016-05-07,T20,KV Sharma,"Eden Gardens, Kolkata",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5,156,20,N,,umpire_A,umpire_B
+488,2016,Lucknow,2016-05-08,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,wickets,5,164,20,N,,umpire_A,umpire_B
+489,2016,Lucknow,2016-05-09,T20,V Kohli,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,14,187,20,N,,umpire_A,umpire_B
+490,2016,Mohali,2016-05-10,T20,T Natarajan,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,runs,34,227,20,N,,umpire_A,umpire_B
+491,2016,Ahmedabad,2016-05-11,T20,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,32,177,20,N,,umpire_A,umpire_B
+492,2016,Kolkata,2016-05-12,T20,CH Gayle,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,10,167,20,N,,umpire_A,umpire_B
+493,2016,Mumbai,2016-05-13,T20,Tilak Varma,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,wickets,2,168,20,N,,umpire_A,umpire_B
+494,2016,Hyderabad,2016-05-14,T20,SL Malinga,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,runs,26,181,20,N,,umpire_A,umpire_B
+495,2016,Chennai,2016-05-15,T20,A Nortje,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,34,167,20,N,,umpire_A,umpire_B
+496,2017,Kolkata,2017-03-22,T20,A Nehra,"Eden Gardens, Kolkata",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,9,171,20,N,,umpire_A,umpire_B
+497,2017,Kolkata,2017-03-23,T20,RK Singh,"Eden Gardens, Kolkata",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,13,183,20,N,,umpire_A,umpire_B
+498,2017,Mohali,2017-03-24,T20,RG Sharma,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,runs,17,194,20,N,,umpire_A,umpire_B
+499,2017,Kolkata,2017-03-25,T20,WP Saha,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,wickets,7,152,20,N,,umpire_A,umpire_B
+500,2017,Bengaluru,2017-03-26,T20,AM Rahane,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,60,220,20,N,,umpire_A,umpire_B
+501,2017,Chennai,2017-03-27,T20,AD Russell,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,runs,9,207,20,N,,umpire_A,umpire_B
+502,2017,Kolkata,2017-03-28,T20,RV Uthappa,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8,157,20,N,,umpire_A,umpire_B
+503,2017,Ahmedabad,2017-03-29,T20,RP Singh,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,155,20,N,,umpire_A,umpire_B
+504,2017,Ahmedabad,2017-03-30,T20,RP Singh,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,162,20,N,,umpire_A,umpire_B
+505,2017,Chennai,2017-03-31,T20,SR Watson,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,172,20,N,,umpire_A,umpire_B
+506,2017,Ahmedabad,2017-04-01,T20,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,,no result,0,0,20,N,,umpire_A,umpire_B
+507,2017,Chennai,2017-04-02,T20,V Kohli,"MA Chidambaram Stadium, Chennai",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,wickets,6,182,20,N,,umpire_A,umpire_B
+508,2017,Jaipur,2017-04-03,T20,SP Narine,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,17,172,20,N,,umpire_A,umpire_B
+509,2017,Ahmedabad,2017-04-04,T20,Avesh Khan,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,176,20,N,,umpire_A,umpire_B
+510,2017,Lucknow,2017-04-05,T20,B Kumar,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,8,162,20,N,,umpire_A,umpire_B
+511,2017,Bengaluru,2017-04-06,T20,KL Rahul,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,3,177,20,N,,umpire_A,umpire_B
+512,2017,Delhi,2017-04-07,T20,F du Plessis,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,runs,50,222,20,N,,umpire_A,umpire_B
+513,2017,Bengaluru,2017-04-08,T20,KA Pollard,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,19,192,20,N,,umpire_A,umpire_B
+514,2017,Jaipur,2017-04-09,T20,IK Pathan,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,wickets,2,161,20,N,,umpire_A,umpire_B
+515,2017,Mohali,2017-04-10,T20,Rashid Khan,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,runs,54,197,20,N,,umpire_A,umpire_B
+516,2017,Kolkata,2017-04-11,T20,KS Williamson,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,47,184,20,N,,umpire_A,umpire_B
+517,2017,Delhi,2017-04-12,T20,SL Malinga,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3,156,20,N,,umpire_A,umpire_B
+518,2017,Mumbai,2017-04-13,T20,SV Samson,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,64,194,20,N,,umpire_A,umpire_B
+519,2017,Lucknow,2017-04-14,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,7,178,20,N,,umpire_A,umpire_B
+520,2017,Hyderabad,2017-04-15,T20,KV Sharma,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,41,196,20,N,,umpire_A,umpire_B
+521,2017,Mumbai,2017-04-16,T20,SK Raina,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5,155,20,N,,umpire_A,umpire_B
+522,2017,Ahmedabad,2017-04-17,T20,RV Uthappa,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,167,20,N,,umpire_A,umpire_B
+523,2017,Lucknow,2017-04-18,T20,RG Sharma,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8,164,20,N,,umpire_A,umpire_B
+524,2017,Mohali,2017-04-19,T20,SP Narine,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,,no result,0,0,20,N,,umpire_A,umpire_B
+525,2017,Lucknow,2017-04-20,T20,AB de Villiers,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5,103,20,N,,umpire_A,umpire_B
+526,2017,Lucknow,2017-04-21,T20,Tilak Varma,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,64,166,20,N,,umpire_A,umpire_B
+527,2017,Mumbai,2017-04-22,T20,A Nehra,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,19,167,20,N,,umpire_A,umpire_B
+528,2017,Mumbai,2017-04-23,T20,HH Pandya,"Wankhede Stadium, Mumbai",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,57,209,20,N,,umpire_A,umpire_B
+529,2017,Mumbai,2017-04-24,T20,T Natarajan,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,10,159,20,N,,umpire_A,umpire_B
+530,2017,Chennai,2017-04-25,T20,Tilak Varma,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,5,169,20,N,,umpire_A,umpire_B
+531,2017,Delhi,2017-04-26,T20,Shubman Gill,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,11,166,20,N,,umpire_A,umpire_B
+532,2017,Mohali,2017-04-27,T20,SV Samson,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32,186,20,N,,umpire_A,umpire_B
+533,2017,Kolkata,2017-04-28,T20,Shubman Gill,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,109,20,N,,umpire_A,umpire_B
+534,2017,Jaipur,2017-04-29,T20,RP Singh,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,169,20,N,,umpire_A,umpire_B
+535,2017,Mohali,2017-04-30,T20,YS Chahal,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,5,181,20,N,,umpire_A,umpire_B
+536,2017,Mumbai,2017-05-01,T20,Q de Kock,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,18,157,20,N,,umpire_A,umpire_B
+537,2017,Mumbai,2017-05-02,T20,Z Khan,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,15,178,20,N,,umpire_A,umpire_B
+538,2017,Bengaluru,2017-05-03,T20,SV Samson,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1,147,20,N,,umpire_A,umpire_B
+539,2017,Lucknow,2017-05-04,T20,IK Pathan,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,24,163,20,N,,umpire_A,umpire_B
+540,2017,Hyderabad,2017-05-05,T20,AM Rahane,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,wickets,7,160,20,N,,umpire_A,umpire_B
+541,2017,Mumbai,2017-05-06,T20,B Kumar,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,4,166,20,N,,umpire_A,umpire_B
+542,2017,Mumbai,2017-05-07,T20,A Nehra,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,10,174,20,N,,umpire_A,umpire_B
+543,2017,Jaipur,2017-05-08,T20,Harbhajan Singh,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,runs,55,208,20,N,,umpire_A,umpire_B
+544,2017,Bengaluru,2017-05-09,T20,PA Patel,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,124,20,N,,umpire_A,umpire_B
+545,2017,Jaipur,2017-05-10,T20,RA Jadeja,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Kolkata Knight Riders,runs,16,175,20,N,,umpire_A,umpire_B
+546,2017,Hyderabad,2017-05-11,T20,DP Conway,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,24,172,20,N,,umpire_A,umpire_B
+547,2017,Hyderabad,2017-05-12,T20,RV Uthappa,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,157,20,N,,umpire_A,umpire_B
+548,2017,Mumbai,2017-05-13,T20,B Kumar,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,runs,3,179,20,N,,umpire_A,umpire_B
+549,2017,Lucknow,2017-05-14,T20,SE Marsh,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,7,159,20,N,,umpire_A,umpire_B
+550,2017,Mumbai,2017-05-15,T20,PA Patel,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,158,20,N,,umpire_A,umpire_B
+551,2018,Mumbai,2018-03-22,T20,YS Chahal,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,16,164,20,N,,umpire_A,umpire_B
+552,2018,Mohali,2018-03-23,T20,JJ Bumrah,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,72,218,20,N,,umpire_A,umpire_B
+553,2018,Chennai,2018-03-24,T20,YBK Jaiswal,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,69,171,20,N,,umpire_A,umpire_B
+554,2018,Kolkata,2018-03-25,T20,SK Raina,"Eden Gardens, Kolkata",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,4,162,20,N,,umpire_A,umpire_B
+555,2018,Mohali,2018-03-26,T20,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,39,189,20,N,,umpire_A,umpire_B
+556,2018,Ahmedabad,2018-03-27,T20,T Natarajan,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,wickets,4,175,20,N,,umpire_A,umpire_B
+557,2018,Kolkata,2018-03-28,T20,JC Buttler,"Eden Gardens, Kolkata",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,25,195,20,N,,umpire_A,umpire_B
+558,2018,Delhi,2018-03-29,T20,AM Mishra,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,runs,27,166,20,N,,umpire_A,umpire_B
+559,2018,Kolkata,2018-03-30,T20,Mohammed Shami,"Eden Gardens, Kolkata",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,6,145,20,N,,umpire_A,umpire_B
+560,2018,Hyderabad,2018-03-31,T20,JC Buttler,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,43,171,20,N,,umpire_A,umpire_B
+561,2018,Jaipur,2018-04-01,T20,Tilak Varma,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,16,159,20,N,,umpire_A,umpire_B
+562,2018,Lucknow,2018-04-02,T20,PP Chawla,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,12,164,20,N,,umpire_A,umpire_B
+563,2018,Kolkata,2018-04-03,T20,Avesh Khan,"Eden Gardens, Kolkata",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,wickets,2,182,20,N,,umpire_A,umpire_B
+564,2018,Kolkata,2018-04-04,T20,JJ Bumrah,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,58,206,20,N,,umpire_A,umpire_B
+565,2018,Bengaluru,2018-04-05,T20,Mohammed Shami,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,wickets,4,152,20,N,,umpire_A,umpire_B
+566,2018,Jaipur,2018-04-06,T20,JC Buttler,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,6,181,20,N,,umpire_A,umpire_B
+567,2018,Mohali,2018-04-07,T20,KS Williamson,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,25,179,20,N,,umpire_A,umpire_B
+568,2018,Ahmedabad,2018-04-08,T20,NV Ojha,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,6,163,20,N,,umpire_A,umpire_B
+569,2018,Kolkata,2018-04-09,T20,BB McCullum,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,2,164,20,N,,umpire_A,umpire_B
+570,2018,Lucknow,2018-04-10,T20,RG Sharma,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,runs,20,183,20,N,,umpire_A,umpire_B
+571,2018,Mohali,2018-04-11,T20,RK Singh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,68,203,20,N,,umpire_A,umpire_B
+572,2018,Hyderabad,2018-04-12,T20,DL Chahar,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,5,148,20,N,,umpire_A,umpire_B
+573,2018,Kolkata,2018-04-13,T20,Avesh Khan,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,49,194,20,N,,umpire_A,umpire_B
+574,2018,Mohali,2018-04-14,T20,SS Iyer,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,16,202,20,N,,umpire_A,umpire_B
+575,2018,Mohali,2018-04-15,T20,M Morkel,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,65,187,20,N,,umpire_A,umpire_B
+576,2018,Mohali,2018-04-16,T20,RA Jadeja,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,runs,34,177,20,N,,umpire_A,umpire_B
+577,2018,Kolkata,2018-04-17,T20,AB de Villiers,"Eden Gardens, Kolkata",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,1,154,20,N,,umpire_A,umpire_B
+578,2018,Bengaluru,2018-04-18,T20,DL Chahar,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,3,134,20,N,,umpire_A,umpire_B
+579,2018,Bengaluru,2018-04-19,T20,T Natarajan,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23,203,20,N,,umpire_A,umpire_B
+580,2018,Chennai,2018-04-20,T20,AM Mishra,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,2,140,20,N,,umpire_A,umpire_B
+581,2018,Lucknow,2018-04-21,T20,M Morkel,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,runs,6,164,20,N,,umpire_A,umpire_B
+582,2018,Ahmedabad,2018-04-22,T20,A Nehra,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,137,20,N,,umpire_A,umpire_B
+583,2018,Kolkata,2018-04-23,T20,SR Watson,"Eden Gardens, Kolkata",Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,192,20,N,,umpire_A,umpire_B
+584,2018,Delhi,2018-04-24,T20,RV Uthappa,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,6,172,20,N,,umpire_A,umpire_B
+585,2018,Chennai,2018-04-25,T20,KV Sharma,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,26,185,20,N,,umpire_A,umpire_B
+586,2018,Jaipur,2018-04-26,T20,AM Mishra,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,7,191,20,N,,umpire_A,umpire_B
+587,2018,Mumbai,2018-04-27,T20,RP Singh,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,2,164,20,N,,umpire_A,umpire_B
+588,2018,Ahmedabad,2018-04-28,T20,WP Saha,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9,198,20,N,,umpire_A,umpire_B
+589,2018,Kolkata,2018-04-29,T20,SP Narine,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,6,176,20,N,,umpire_A,umpire_B
+590,2018,Lucknow,2018-04-30,T20,RK Singh,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,3,181,20,N,,umpire_A,umpire_B
+591,2018,Mohali,2018-05-01,T20,WP Saha,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,35,165,20,N,,umpire_A,umpire_B
+592,2018,Mumbai,2018-05-02,T20,SE Marsh,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,runs,6,192,20,N,,umpire_A,umpire_B
+593,2018,Hyderabad,2018-05-03,T20,AM Rahane,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,7,188,20,N,,umpire_A,umpire_B
+594,2018,Mumbai,2018-05-04,T20,PP Chawla,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,8,162,20,N,,umpire_A,umpire_B
+595,2018,Bengaluru,2018-05-05,T20,SP Narine,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,36,189,20,N,,umpire_A,umpire_B
+596,2018,Chennai,2018-05-06,T20,JJ Bumrah,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,13,210,20,N,,umpire_A,umpire_B
+597,2018,Mumbai,2018-05-07,T20,Shubman Gill,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,wickets,5,159,20,N,,umpire_A,umpire_B
+598,2018,Lucknow,2018-05-08,T20,RP Singh,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,31,205,20,N,,umpire_A,umpire_B
+599,2018,Mohali,2018-05-09,T20,A Nortje,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,wickets,5,181,20,N,,umpire_A,umpire_B
+600,2018,Lucknow,2018-05-10,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,wickets,2,144,20,N,,umpire_A,umpire_B
+601,2018,Mohali,2018-05-11,T20,Rashid Khan,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,runs,49,179,20,N,,umpire_A,umpire_B
+602,2018,Hyderabad,2018-05-12,T20,BB McCullum,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,152,20,N,,umpire_A,umpire_B
+603,2018,Bengaluru,2018-05-13,T20,AM Rahane,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,47,196,20,N,,umpire_A,umpire_B
+604,2018,Jaipur,2018-05-14,T20,KA Pollard,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8,190,20,N,,umpire_A,umpire_B
+605,2018,Lucknow,2018-05-15,T20,IK Pathan,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4,155,20,N,,umpire_A,umpire_B
+606,2019,Jaipur,2019-03-22,T20,Avesh Khan,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,runs,10,179,20,N,,umpire_A,umpire_B
+607,2019,Lucknow,2019-03-23,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,7,137,20,N,,umpire_A,umpire_B
+608,2019,Lucknow,2019-03-24,T20,AB de Villiers,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,6,149,20,N,,umpire_A,umpire_B
+609,2019,Lucknow,2019-03-25,T20,RG Sharma,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,wickets,2,170,20,N,,umpire_A,umpire_B
+610,2019,Delhi,2019-03-26,T20,AD Russell,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,wickets,7,142,20,N,,umpire_A,umpire_B
+611,2019,Lucknow,2019-03-27,T20,YBK Jaiswal,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+612,2019,Mumbai,2019-03-28,T20,T Natarajan,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,runs,4,172,20,N,,umpire_A,umpire_B
+613,2019,Delhi,2019-03-29,T20,NV Ojha,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,3,174,20,N,,umpire_A,umpire_B
+614,2019,Mohali,2019-03-30,T20,MS Dhoni,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,1,162,20,N,,umpire_A,umpire_B
+615,2019,Kolkata,2019-03-31,T20,HH Pandya,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+616,2019,Kolkata,2019-04-01,T20,DP Conway,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,9,192,20,N,,umpire_A,umpire_B
+617,2019,Jaipur,2019-04-02,T20,A Nehra,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,runs,3,157,20,N,,umpire_A,umpire_B
+618,2019,Jaipur,2019-04-03,T20,A Nehra,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,5,187,20,N,,umpire_A,umpire_B
+619,2019,Lucknow,2019-04-04,T20,PA Patel,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,0,155,20,N,,umpire_A,umpire_B
+620,2019,Delhi,2019-04-05,T20,SE Marsh,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,5,161,20,N,,umpire_A,umpire_B
+621,2019,Ahmedabad,2019-04-06,T20,A Nehra,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,runs,4,160,20,N,,umpire_A,umpire_B
+622,2019,Chennai,2019-04-07,T20,CH Gayle,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8,84,20,N,,umpire_A,umpire_B
+623,2019,Lucknow,2019-04-08,T20,Q de Kock,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,5,188,20,N,,umpire_A,umpire_B
+624,2019,Ahmedabad,2019-04-09,T20,JJ Bumrah,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,runs,21,157,20,N,,umpire_A,umpire_B
+625,2019,Bengaluru,2019-04-10,T20,SE Marsh,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,38,198,20,N,,umpire_A,umpire_B
+626,2019,Kolkata,2019-04-11,T20,B Kumar,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6,173,20,N,,umpire_A,umpire_B
+627,2019,Jaipur,2019-04-12,T20,WP Saha,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,2,143,20,N,,umpire_A,umpire_B
+628,2019,Mumbai,2019-04-13,T20,Harbhajan Singh,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27,184,20,N,,umpire_A,umpire_B
+629,2019,Chennai,2019-04-14,T20,IK Pathan,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5,180,20,N,,umpire_A,umpire_B
+630,2019,Ahmedabad,2019-04-15,T20,AM Mishra,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,5,175,20,N,,umpire_A,umpire_B
+631,2019,Lucknow,2019-04-16,T20,AM Rahane,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,wickets,8,96,20,N,,umpire_A,umpire_B
+632,2019,Hyderabad,2019-04-17,T20,V Kohli,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,wickets,5,163,20,N,,umpire_A,umpire_B
+633,2019,Hyderabad,2019-04-18,T20,Q de Kock,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,2,160,20,N,,umpire_A,umpire_B
+634,2019,Bengaluru,2019-04-19,T20,A Nehra,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,34,180,20,N,,umpire_A,umpire_B
+635,2019,Chennai,2019-04-20,T20,AM Rahane,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,7,120,20,N,,umpire_A,umpire_B
+636,2019,Kolkata,2019-04-21,T20,IK Pathan,"Eden Gardens, Kolkata",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,153,20,N,,umpire_A,umpire_B
+637,2019,Kolkata,2019-04-22,T20,DL Chahar,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,1,159,20,N,,umpire_A,umpire_B
+638,2019,Kolkata,2019-04-23,T20,Tilak Varma,"Eden Gardens, Kolkata",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,5,160,20,N,,umpire_A,umpire_B
+639,2019,Mumbai,2019-04-24,T20,DJ Bravo,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6,163,20,N,,umpire_A,umpire_B
+640,2019,Jaipur,2019-04-25,T20,SR Watson,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,26,179,20,N,,umpire_A,umpire_B
+641,2019,Bengaluru,2019-04-26,T20,T Natarajan,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,176,20,N,,umpire_A,umpire_B
+642,2019,Chennai,2019-04-27,T20,A Nortje,"MA Chidambaram Stadium, Chennai",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,7,177,20,N,,umpire_A,umpire_B
+643,2019,Kolkata,2019-04-28,T20,Mohammed Shami,"Eden Gardens, Kolkata",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,4,175,20,N,,umpire_A,umpire_B
+644,2019,Bengaluru,2019-04-29,T20,SK Raina,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4,180,20,N,,umpire_A,umpire_B
+645,2019,Jaipur,2019-04-30,T20,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2,137,20,N,,umpire_A,umpire_B
+646,2019,Mumbai,2019-05-01,T20,BB McCullum,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,wickets,1,125,20,N,,umpire_A,umpire_B
+647,2019,Mumbai,2019-05-02,T20,DL Chahar,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,8,182,20,N,,umpire_A,umpire_B
+648,2019,Kolkata,2019-05-03,T20,BB McCullum,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,7,199,20,N,,umpire_A,umpire_B
+649,2019,Bengaluru,2019-05-04,T20,DP Conway,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,6,168,20,N,,umpire_A,umpire_B
+650,2019,Bengaluru,2019-05-05,T20,PA Patel,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,103,209,20,N,,umpire_A,umpire_B
+651,2019,Bengaluru,2019-05-06,T20,Mohammed Shami,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,wickets,2,179,20,N,,umpire_A,umpire_B
+652,2019,Delhi,2019-05-07,T20,DL Chahar,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,runs,45,199,20,N,,umpire_A,umpire_B
+653,2019,Mohali,2019-05-08,T20,RK Singh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,17,181,20,N,,umpire_A,umpire_B
+654,2019,Delhi,2019-05-09,T20,RA Jadeja,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,11,176,20,N,,umpire_A,umpire_B
+655,2019,Mohali,2019-05-10,T20,RV Uthappa,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,58,174,20,N,,umpire_A,umpire_B
+656,2019,Bengaluru,2019-05-11,T20,YBK Jaiswal,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,6,165,20,N,,umpire_A,umpire_B
+657,2019,Mumbai,2019-05-12,T20,DJ Bravo,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,runs,49,187,20,N,,umpire_A,umpire_B
+658,2019,Hyderabad,2019-05-13,T20,SE Marsh,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,24,194,20,N,,umpire_A,umpire_B
+659,2019,Ahmedabad,2019-05-14,T20,KA Pollard,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,runs,34,177,20,N,,umpire_A,umpire_B
+660,2019,Jaipur,2019-05-15,T20,KV Sharma,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,15,169,20,N,,umpire_A,umpire_B
+661,2020,Delhi,2020-03-22,T20,DJ Bravo,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,37,166,20,N,,umpire_A,umpire_B
+662,2020,Lucknow,2020-03-23,T20,JC Buttler,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,wickets,6,171,20,N,,umpire_A,umpire_B
+663,2020,Delhi,2020-03-24,T20,JJ Bumrah,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,202,20,N,,umpire_A,umpire_B
+664,2020,Jaipur,2020-03-25,T20,M Morkel,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,2,170,20,N,,umpire_A,umpire_B
+665,2020,Bengaluru,2020-03-26,T20,Z Khan,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,5,139,20,N,,umpire_A,umpire_B
+666,2020,Mumbai,2020-03-27,T20,Z Khan,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,16,199,20,N,,umpire_A,umpire_B
+667,2020,Jaipur,2020-03-28,T20,SK Raina,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,62,192,20,N,,umpire_A,umpire_B
+668,2020,Bengaluru,2020-03-29,T20,Mohammed Shami,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,1,184,20,N,,umpire_A,umpire_B
+669,2020,Chennai,2020-03-30,T20,AD Russell,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,7,156,20,N,,umpire_A,umpire_B
+670,2020,Mohali,2020-03-31,T20,Avesh Khan,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,6,142,20,N,,umpire_A,umpire_B
+671,2020,Bengaluru,2020-04-01,T20,DP Conway,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,14,180,20,N,,umpire_A,umpire_B
+672,2020,Lucknow,2020-04-02,T20,G Gambhir,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,23,186,20,N,,umpire_A,umpire_B
+673,2020,Lucknow,2020-04-03,T20,F du Plessis,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,,no result,0,0,20,N,,umpire_A,umpire_B
+674,2020,Kolkata,2020-04-04,T20,Harbhajan Singh,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,wickets,7,164,20,N,,umpire_A,umpire_B
+675,2020,Hyderabad,2020-04-05,T20,F du Plessis,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,169,20,N,,umpire_A,umpire_B
+676,2020,Mohali,2020-04-06,T20,SE Marsh,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,6,174,20,N,,umpire_A,umpire_B
+677,2020,Bengaluru,2020-04-07,T20,Tilak Varma,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,wickets,4,155,20,N,,umpire_A,umpire_B
+678,2020,Mohali,2020-04-08,T20,YS Chahal,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,6,115,20,N,,umpire_A,umpire_B
+679,2020,Hyderabad,2020-04-09,T20,Q de Kock,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,8,147,20,N,,umpire_A,umpire_B
+680,2020,Lucknow,2020-04-10,T20,Mohammed Shami,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,5,173,20,N,,umpire_A,umpire_B
+681,2020,Chennai,2020-04-11,T20,YS Chahal,"MA Chidambaram Stadium, Chennai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,wickets,6,137,20,N,,umpire_A,umpire_B
+682,2020,Mohali,2020-04-12,T20,Avesh Khan,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,13,175,20,N,,umpire_A,umpire_B
+683,2020,Delhi,2020-04-13,T20,CH Gayle,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,1,185,20,N,,umpire_A,umpire_B
+684,2020,Hyderabad,2020-04-14,T20,MM Sharma,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,6,163,20,N,,umpire_A,umpire_B
+685,2020,Mohali,2020-04-15,T20,SR Watson,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,runs,0,155,20,N,,umpire_A,umpire_B
+686,2020,Chennai,2020-04-16,T20,AM Mishra,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,30,188,20,N,,umpire_A,umpire_B
+687,2020,Kolkata,2020-04-17,T20,DL Chahar,"Eden Gardens, Kolkata",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,16,184,20,N,,umpire_A,umpire_B
+688,2020,Hyderabad,2020-04-18,T20,SV Samson,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,5,164,20,N,,umpire_A,umpire_B
+689,2020,Ahmedabad,2020-04-19,T20,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,6,188,20,N,,umpire_A,umpire_B
+690,2020,Jaipur,2020-04-20,T20,SR Watson,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,runs,23,180,20,N,,umpire_A,umpire_B
+691,2020,Mohali,2020-04-21,T20,Harbhajan Singh,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Delhi Capitals,runs,0,166,20,N,,umpire_A,umpire_B
+692,2020,Kolkata,2020-04-22,T20,DA Warner,"Eden Gardens, Kolkata",Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,runs,32,206,20,N,,umpire_A,umpire_B
+693,2020,Mohali,2020-04-23,T20,PA Patel,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,runs,50,197,20,N,,umpire_A,umpire_B
+694,2020,Chennai,2020-04-24,T20,SS Iyer,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,25,185,20,N,,umpire_A,umpire_B
+695,2020,Ahmedabad,2020-04-25,T20,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,runs,29,160,20,N,,umpire_A,umpire_B
+696,2020,Kolkata,2020-04-26,T20,YS Chahal,"Eden Gardens, Kolkata",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,wickets,7,172,20,N,,umpire_A,umpire_B
+697,2020,Mumbai,2020-04-27,T20,M Morkel,"Wankhede Stadium, Mumbai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,3,149,20,N,,umpire_A,umpire_B
+698,2020,Chennai,2020-04-28,T20,F du Plessis,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,183,20,N,,umpire_A,umpire_B
+699,2020,Lucknow,2020-04-29,T20,DA Warner,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,11,171,20,N,,umpire_A,umpire_B
+700,2020,Hyderabad,2020-04-30,T20,KS Williamson,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,137,199,20,N,,umpire_A,umpire_B
+701,2020,Bengaluru,2020-05-01,T20,T Natarajan,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,2,147,20,N,,umpire_A,umpire_B
+702,2020,Ahmedabad,2020-05-02,T20,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,5,173,20,N,,umpire_A,umpire_B
+703,2020,Hyderabad,2020-05-03,T20,YBK Jaiswal,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,126,20,N,,umpire_A,umpire_B
+704,2020,Jaipur,2020-05-04,T20,Q de Kock,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,wickets,2,170,20,N,,umpire_A,umpire_B
+705,2020,Kolkata,2020-05-05,T20,Q de Kock,"Eden Gardens, Kolkata",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,8,156,20,N,,umpire_A,umpire_B
+706,2020,Delhi,2020-05-06,T20,DP Conway,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,2,185,20,N,,umpire_A,umpire_B
+707,2020,Jaipur,2020-05-07,T20,Tilak Varma,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,,no result,0,0,20,N,,umpire_A,umpire_B
+708,2020,Bengaluru,2020-05-08,T20,SR Watson,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,5,107,20,N,,umpire_A,umpire_B
+709,2020,Lucknow,2020-05-09,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,6,130,20,N,,umpire_A,umpire_B
+710,2020,Hyderabad,2020-05-10,T20,Tilak Varma,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,172,20,N,,umpire_A,umpire_B
+711,2020,Chennai,2020-05-11,T20,WP Saha,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,16,175,20,N,,umpire_A,umpire_B
+712,2020,Bengaluru,2020-05-12,T20,WP Saha,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,runs,3,142,20,N,,umpire_A,umpire_B
+713,2020,Bengaluru,2020-05-13,T20,RK Singh,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2,184,20,N,,umpire_A,umpire_B
+714,2020,Hyderabad,2020-05-14,T20,Harbhajan Singh,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,6,182,20,N,,umpire_A,umpire_B
+715,2020,Ahmedabad,2020-05-15,T20,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,10,173,20,N,,umpire_A,umpire_B
+716,2021,Mumbai,2021-03-22,T20,RG Sharma,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7,192,20,N,,umpire_A,umpire_B
+717,2021,Jaipur,2021-03-23,T20,KA Pollard,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,27,198,20,N,,umpire_A,umpire_B
+718,2021,Lucknow,2021-03-24,T20,JC Buttler,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,32,189,20,N,,umpire_A,umpire_B
+719,2021,Hyderabad,2021-03-25,T20,JJ Bumrah,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Punjab Kings,runs,20,170,20,N,,umpire_A,umpire_B
+720,2021,Bengaluru,2021-03-26,T20,Q de Kock,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,5,166,20,N,,umpire_A,umpire_B
+721,2021,Mohali,2021-03-27,T20,KV Sharma,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,3,201,20,N,,umpire_A,umpire_B
+722,2021,Ahmedabad,2021-03-28,T20,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,6,164,20,N,,umpire_A,umpire_B
+723,2021,Ahmedabad,2021-03-29,T20,IK Pathan,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,22,184,20,N,,umpire_A,umpire_B
+724,2021,Mohali,2021-03-30,T20,Avesh Khan,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,,no result,0,0,20,N,,umpire_A,umpire_B
+725,2021,Jaipur,2021-03-31,T20,A Nehra,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,runs,16,156,20,N,,umpire_A,umpire_B
+726,2021,Ahmedabad,2021-04-01,T20,Z Khan,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8,115,20,N,,umpire_A,umpire_B
+727,2021,Hyderabad,2021-04-02,T20,RV Uthappa,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,5,186,20,N,,umpire_A,umpire_B
+728,2021,Bengaluru,2021-04-03,T20,AB de Villiers,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,17,198,20,N,,umpire_A,umpire_B
+729,2021,Lucknow,2021-04-04,T20,AM Mishra,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,161,20,N,,umpire_A,umpire_B
+730,2021,Mohali,2021-04-05,T20,JJ Bumrah,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,37,194,20,N,,umpire_A,umpire_B
+731,2021,Hyderabad,2021-04-06,T20,SE Marsh,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,100,172,20,N,,umpire_A,umpire_B
+732,2021,Mohali,2021-04-07,T20,F du Plessis,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,6,178,20,N,,umpire_A,umpire_B
+733,2021,Ahmedabad,2021-04-08,T20,NV Ojha,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,58,215,20,N,,umpire_A,umpire_B
+734,2021,Lucknow,2021-04-09,T20,Rashid Khan,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9,177,20,N,,umpire_A,umpire_B
+735,2021,Chennai,2021-04-10,T20,KV Sharma,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,31,245,20,N,,umpire_A,umpire_B
+736,2021,Lucknow,2021-04-11,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6,167,20,N,,umpire_A,umpire_B
+737,2021,Ahmedabad,2021-04-12,T20,KS Williamson,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1,144,20,N,,umpire_A,umpire_B
+738,2021,Delhi,2021-04-13,T20,KV Sharma,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,64,234,20,N,,umpire_A,umpire_B
+739,2021,Chennai,2021-04-14,T20,RA Jadeja,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8,170,20,N,,umpire_A,umpire_B
+740,2021,Delhi,2021-04-15,T20,SE Marsh,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+741,2021,Jaipur,2021-04-16,T20,DA Warner,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,150,20,N,,umpire_A,umpire_B
+742,2021,Mumbai,2021-04-17,T20,A Nortje,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,5,144,20,N,,umpire_A,umpire_B
+743,2021,Jaipur,2021-04-18,T20,RA Jadeja,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,57,182,20,N,,umpire_A,umpire_B
+744,2021,Mohali,2021-04-19,T20,AM Mishra,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,runs,48,199,20,N,,umpire_A,umpire_B
+745,2021,Delhi,2021-04-20,T20,RG Sharma,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,runs,14,156,20,N,,umpire_A,umpire_B
+746,2021,Ahmedabad,2021-04-21,T20,Rashid Khan,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,wickets,7,157,20,N,,umpire_A,umpire_B
+747,2021,Mohali,2021-04-22,T20,SK Raina,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,runs,23,163,20,N,,umpire_A,umpire_B
+748,2021,Ahmedabad,2021-04-23,T20,RP Singh,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15,162,20,N,,umpire_A,umpire_B
+749,2021,Mumbai,2021-04-24,T20,AD Russell,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,145,20,N,,umpire_A,umpire_B
+750,2021,Delhi,2021-04-25,T20,SE Marsh,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,wickets,4,163,20,N,,umpire_A,umpire_B
+751,2021,Bengaluru,2021-04-26,T20,MS Dhoni,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,4,164,20,N,,umpire_A,umpire_B
+752,2021,Kolkata,2021-04-27,T20,JC Buttler,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,wickets,2,137,20,N,,umpire_A,umpire_B
+753,2021,Kolkata,2021-04-28,T20,SP Narine,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,26,189,20,N,,umpire_A,umpire_B
+754,2021,Kolkata,2021-04-29,T20,SV Samson,"Eden Gardens, Kolkata",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,4,153,20,N,,umpire_A,umpire_B
+755,2021,Chennai,2021-04-30,T20,A Nortje,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,4,152,20,N,,umpire_A,umpire_B
+756,2021,Jaipur,2021-05-01,T20,Shubman Gill,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,runs,10,142,20,N,,umpire_A,umpire_B
+757,2021,Chennai,2021-05-02,T20,DP Conway,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,8,183,20,N,,umpire_A,umpire_B
+758,2021,Kolkata,2021-05-03,T20,DP Conway,"Eden Gardens, Kolkata",Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,runs,13,185,20,N,,umpire_A,umpire_B
+759,2021,Delhi,2021-05-04,T20,YS Chahal,"Arun Jaitley Stadium, Delhi",Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,wickets,4,160,20,N,,umpire_A,umpire_B
+760,2021,Delhi,2021-05-05,T20,V Kohli,"Arun Jaitley Stadium, Delhi",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,wickets,6,153,20,N,,umpire_A,umpire_B
+761,2021,Chennai,2021-05-06,T20,F du Plessis,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,5,162,20,N,,umpire_A,umpire_B
+762,2021,Kolkata,2021-05-07,T20,RK Singh,"Eden Gardens, Kolkata",Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,27,206,20,N,,umpire_A,umpire_B
+763,2021,Bengaluru,2021-05-08,T20,Rashid Khan,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,13,212,20,N,,umpire_A,umpire_B
+764,2021,Chennai,2021-05-09,T20,AB de Villiers,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,4,147,20,N,,umpire_A,umpire_B
+765,2021,Chennai,2021-05-10,T20,DA Warner,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,8,156,20,N,,umpire_A,umpire_B
+766,2021,Chennai,2021-05-11,T20,MS Dhoni,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,90,169,20,N,,umpire_A,umpire_B
+767,2021,Chennai,2021-05-12,T20,KS Williamson,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4,130,20,N,,umpire_A,umpire_B
+768,2021,Mohali,2021-05-13,T20,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,11,172,20,N,,umpire_A,umpire_B
+769,2021,Kolkata,2021-05-14,T20,CH Gayle,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+770,2021,Bengaluru,2021-05-15,T20,RK Singh,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,2,183,20,N,,umpire_A,umpire_B
+771,2022,Bengaluru,2022-03-22,T20,WP Saha,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,2,179,20,N,,umpire_A,umpire_B
+772,2022,Lucknow,2022-03-23,T20,KS Williamson,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Royal Challengers Bengaluru,runs,43,191,20,N,,umpire_A,umpire_B
+773,2022,Delhi,2022-03-24,T20,YS Chahal,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,22,201,20,N,,umpire_A,umpire_B
+774,2022,Hyderabad,2022-03-25,T20,Rashid Khan,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,6,146,20,N,,umpire_A,umpire_B
+775,2022,Mumbai,2022-03-26,T20,DA Warner,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,wickets,3,158,20,N,,umpire_A,umpire_B
+776,2022,Mumbai,2022-03-27,T20,Avesh Khan,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9,94,20,N,,umpire_A,umpire_B
+777,2022,Delhi,2022-03-28,T20,B Kumar,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,12,165,20,N,,umpire_A,umpire_B
+778,2022,Chennai,2022-03-29,T20,MS Dhoni,"MA Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,8,170,20,N,,umpire_A,umpire_B
+779,2022,Mohali,2022-03-30,T20,DP Conway,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4,181,20,N,,umpire_A,umpire_B
+780,2022,Jaipur,2022-03-31,T20,BB McCullum,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,9,191,20,N,,umpire_A,umpire_B
+781,2022,Chennai,2022-04-01,T20,AD Russell,"MA Chidambaram Stadium, Chennai",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,29,157,20,N,,umpire_A,umpire_B
+782,2022,Ahmedabad,2022-04-02,T20,YBK Jaiswal,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,runs,12,174,20,N,,umpire_A,umpire_B
+783,2022,Bengaluru,2022-04-03,T20,A Nortje,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,runs,32,158,20,N,,umpire_A,umpire_B
+784,2022,Kolkata,2022-04-04,T20,RK Singh,"Eden Gardens, Kolkata",Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Lucknow Super Giants,wickets,2,130,20,N,,umpire_A,umpire_B
+785,2022,Lucknow,2022-04-05,T20,WP Saha,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9,162,20,N,,umpire_A,umpire_B
+786,2022,Jaipur,2022-04-06,T20,MM Sharma,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,wickets,6,182,20,N,,umpire_A,umpire_B
+787,2022,Chennai,2022-04-07,T20,SE Marsh,"MA Chidambaram Stadium, Chennai",Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,5,174,20,N,,umpire_A,umpire_B
+788,2022,Mumbai,2022-04-08,T20,Q de Kock,"Wankhede Stadium, Mumbai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,2,167,20,N,,umpire_A,umpire_B
+789,2022,Jaipur,2022-04-09,T20,B Kumar,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,12,168,20,N,,umpire_A,umpire_B
+790,2022,Kolkata,2022-04-10,T20,Q de Kock,"Eden Gardens, Kolkata",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,wickets,10,143,20,N,,umpire_A,umpire_B
+791,2022,Lucknow,2022-04-11,T20,Tilak Varma,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,runs,27,222,20,N,,umpire_A,umpire_B
+792,2022,Mumbai,2022-04-12,T20,PP Chawla,"Wankhede Stadium, Mumbai",Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Rajasthan Royals,runs,9,164,20,N,,umpire_A,umpire_B
+793,2022,Jaipur,2022-04-13,T20,V Kohli,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,runs,58,197,20,N,,umpire_A,umpire_B
+794,2022,Mohali,2022-04-14,T20,Rashid Khan,"Punjab Cricket Association Stadium, Mohali",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,1,180,20,N,,umpire_A,umpire_B
+795,2022,Lucknow,2022-04-15,T20,DA Warner,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,wickets,4,186,20,N,,umpire_A,umpire_B
+796,2022,Mohali,2022-04-16,T20,Mohammed Shami,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,161,20,N,,umpire_A,umpire_B
+797,2022,Delhi,2022-04-17,T20,DJ Bravo,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,4,139,20,N,,umpire_A,umpire_B
+798,2022,Mumbai,2022-04-18,T20,Avesh Khan,"Wankhede Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,3,140,20,N,,umpire_A,umpire_B
+799,2022,Jaipur,2022-04-19,T20,DJ Bravo,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6,150,20,N,,umpire_A,umpire_B
+800,2022,Ahmedabad,2022-04-20,T20,M Morkel,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,4,189,20,N,,umpire_A,umpire_B
+801,2022,Bengaluru,2022-04-21,T20,YBK Jaiswal,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,3,142,20,N,,umpire_A,umpire_B
+802,2022,Hyderabad,2022-04-22,T20,DJ Bravo,"Rajiv Gandhi International Stadium, Hyderabad",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,runs,16,146,20,N,,umpire_A,umpire_B
+803,2022,Kolkata,2022-04-23,T20,AM Rahane,"Eden Gardens, Kolkata",Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,155,20,N,,umpire_A,umpire_B
+804,2022,Chennai,2022-04-24,T20,F du Plessis,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2,142,20,N,,umpire_A,umpire_B
+805,2022,Kolkata,2022-04-25,T20,KS Williamson,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,16,196,20,N,,umpire_A,umpire_B
+806,2022,Mumbai,2022-04-26,T20,NV Ojha,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7,161,20,N,,umpire_A,umpire_B
+807,2022,Mumbai,2022-04-27,T20,SP Narine,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,runs,9,179,20,N,,umpire_A,umpire_B
+808,2022,Ahmedabad,2022-04-28,T20,T Natarajan,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6,192,20,N,,umpire_A,umpire_B
+809,2022,Mohali,2022-04-29,T20,AM Rahane,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Lucknow Super Giants,runs,10,168,20,N,,umpire_A,umpire_B
+810,2022,Ahmedabad,2022-04-30,T20,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,wickets,7,162,20,N,,umpire_A,umpire_B
+811,2022,Kolkata,2022-05-01,T20,SV Samson,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,,no result,0,0,20,N,,umpire_A,umpire_B
+812,2022,Jaipur,2022-05-02,T20,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Delhi Capitals,runs,28,191,20,N,,umpire_A,umpire_B
+813,2022,Bengaluru,2022-05-03,T20,SE Marsh,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,Sunrisers Hyderabad,wickets,4,187,20,N,,umpire_A,umpire_B
+814,2022,Chennai,2022-05-04,T20,Harbhajan Singh,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Gujarat Titans,wickets,7,154,20,N,,umpire_A,umpire_B
+815,2022,Hyderabad,2022-05-05,T20,A Nortje,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,53,191,20,N,,umpire_A,umpire_B
+816,2022,Mohali,2022-05-06,T20,NV Ojha,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,6,161,20,N,,umpire_A,umpire_B
+817,2022,Lucknow,2022-05-07,T20,JC Buttler,"Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,4,194,20,N,,umpire_A,umpire_B
+818,2022,Mohali,2022-05-08,T20,KS Williamson,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Rajasthan Royals,runs,26,170,20,N,,umpire_A,umpire_B
+819,2022,Mumbai,2022-05-09,T20,M Morkel,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,8,169,20,N,,umpire_A,umpire_B
+820,2022,Lucknow,2022-05-10,T20,F du Plessis,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,66,189,20,N,,umpire_A,umpire_B
+821,2022,Kolkata,2022-05-11,T20,YS Chahal,"Eden Gardens, Kolkata",Delhi Capitals,Gujarat Titans,Gujarat Titans,bat,Delhi Capitals,wickets,5,97,20,N,,umpire_A,umpire_B
+822,2022,Bengaluru,2022-05-12,T20,Rashid Khan,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,49,186,20,N,,umpire_A,umpire_B
+823,2022,Jaipur,2022-05-13,T20,SP Narine,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,runs,32,208,20,N,,umpire_A,umpire_B
+824,2022,Hyderabad,2022-05-14,T20,AM Mishra,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Gujarat Titans,Gujarat Titans,bat,Punjab Kings,wickets,5,172,20,N,,umpire_A,umpire_B
+825,2022,Bengaluru,2022-05-15,T20,Shubman Gill,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,159,20,N,,umpire_A,umpire_B
+826,2023,Lucknow,2023-03-22,T20,SS Iyer,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Chennai Super Kings,runs,0,173,20,N,,umpire_A,umpire_B
+827,2023,Ahmedabad,2023-03-23,T20,RA Jadeja,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Lucknow Super Giants,Punjab Kings,bat,Lucknow Super Giants,wickets,7,173,20,N,,umpire_A,umpire_B
+828,2023,Jaipur,2023-03-24,T20,AM Mishra,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,wickets,5,144,20,N,,umpire_A,umpire_B
+829,2023,Ahmedabad,2023-03-25,T20,RP Singh,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,6,170,20,N,,umpire_A,umpire_B
+830,2023,Chennai,2023-03-26,T20,PP Chawla,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,wickets,7,169,20,N,,umpire_A,umpire_B
+831,2023,Mumbai,2023-03-27,T20,B Kumar,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bengaluru,wickets,3,206,20,N,,umpire_A,umpire_B
+832,2023,Bengaluru,2023-03-28,T20,RA Jadeja,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,2,138,20,N,,umpire_A,umpire_B
+833,2023,Chennai,2023-03-29,T20,Rashid Khan,"MA Chidambaram Stadium, Chennai",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Punjab Kings,wickets,4,174,20,N,,umpire_A,umpire_B
+834,2023,Chennai,2023-03-30,T20,HH Pandya,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,11,159,20,N,,umpire_A,umpire_B
+835,2023,Bengaluru,2023-03-31,T20,F du Plessis,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,runs,18,168,20,N,,umpire_A,umpire_B
+836,2023,Ahmedabad,2023-04-01,T20,YS Chahal,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,field,Lucknow Super Giants,wickets,3,170,20,N,,umpire_A,umpire_B
+837,2023,Chennai,2023-04-02,T20,Z Khan,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,162,20,N,,umpire_A,umpire_B
+838,2023,Ahmedabad,2023-04-03,T20,SL Malinga,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,runs,37,170,20,N,,umpire_A,umpire_B
+839,2023,Delhi,2023-04-04,T20,SP Narine,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6,149,20,N,,umpire_A,umpire_B
+840,2023,Hyderabad,2023-04-05,T20,Q de Kock,"Rajiv Gandhi International Stadium, Hyderabad",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,4,122,20,N,,umpire_A,umpire_B
+841,2023,Mumbai,2023-04-06,T20,PA Patel,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,12,189,20,N,,umpire_A,umpire_B
+842,2023,Ahmedabad,2023-04-07,T20,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+843,2023,Lucknow,2023-04-08,T20,SL Malinga,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,3,179,20,N,,umpire_A,umpire_B
+844,2023,Mumbai,2023-04-09,T20,SS Iyer,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,23,180,20,N,,umpire_A,umpire_B
+845,2023,Mohali,2023-04-10,T20,WP Saha,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,27,176,20,N,,umpire_A,umpire_B
+846,2023,Chennai,2023-04-11,T20,AB de Villiers,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,3,169,20,N,,umpire_A,umpire_B
+847,2023,Bengaluru,2023-04-12,T20,SS Iyer,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,bat,Royal Challengers Bengaluru,wickets,5,170,20,N,,umpire_A,umpire_B
+848,2023,Mumbai,2023-04-13,T20,DP Conway,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,4,180,20,N,,umpire_A,umpire_B
+849,2023,Mohali,2023-04-14,T20,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,172,20,N,,umpire_A,umpire_B
+850,2023,Mumbai,2023-04-15,T20,SE Marsh,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,171,20,N,,umpire_A,umpire_B
+851,2023,Delhi,2023-04-16,T20,SP Narine,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,25,182,20,N,,umpire_A,umpire_B
+852,2023,Mumbai,2023-04-17,T20,Tilak Varma,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,4,168,20,N,,umpire_A,umpire_B
+853,2023,Hyderabad,2023-04-18,T20,DL Chahar,"Rajiv Gandhi International Stadium, Hyderabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,27,191,20,N,,umpire_A,umpire_B
+854,2023,Bengaluru,2023-04-19,T20,KA Pollard,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,15,165,20,N,,umpire_A,umpire_B
+855,2023,Chennai,2023-04-20,T20,G Gambhir,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bengaluru,wickets,6,135,20,N,,umpire_A,umpire_B
+856,2023,Jaipur,2023-04-21,T20,SV Samson,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,runs,17,169,20,N,,umpire_A,umpire_B
+857,2023,Mohali,2023-04-22,T20,SV Samson,"Punjab Cricket Association Stadium, Mohali",Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,runs,8,186,20,N,,umpire_A,umpire_B
+858,2023,Bengaluru,2023-04-23,T20,A Nehra,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,1,164,20,N,,umpire_A,umpire_B
+859,2023,Jaipur,2023-04-24,T20,SE Marsh,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,5,166,20,N,,umpire_A,umpire_B
+860,2023,Lucknow,2023-04-25,T20,AM Rahane,"Ekana Cricket Stadium, Lucknow",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,runs,14,147,20,N,,umpire_A,umpire_B
+861,2023,Lucknow,2023-04-26,T20,Z Khan,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,7,177,20,N,,umpire_A,umpire_B
+862,2023,Jaipur,2023-04-27,T20,SV Samson,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,5,126,20,N,,umpire_A,umpire_B
+863,2023,Mohali,2023-04-28,T20,AM Mishra,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,4,152,20,N,,umpire_A,umpire_B
+864,2023,Kolkata,2023-04-29,T20,SP Narine,"Eden Gardens, Kolkata",Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,runs,16,192,20,N,,umpire_A,umpire_B
+865,2023,Delhi,2023-04-30,T20,WP Saha,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Kolkata Knight Riders,wickets,1,147,20,N,,umpire_A,umpire_B
+866,2023,Mumbai,2023-05-01,T20,YS Chahal,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,wickets,3,163,20,N,,umpire_A,umpire_B
+867,2023,Mumbai,2023-05-02,T20,JC Buttler,"Wankhede Stadium, Mumbai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34,211,20,N,,umpire_A,umpire_B
+868,2023,Delhi,2023-05-03,T20,MS Dhoni,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+869,2023,Jaipur,2023-05-04,T20,AD Russell,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,runs,38,155,20,N,,umpire_A,umpire_B
+870,2023,Kolkata,2023-05-05,T20,SL Malinga,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3,158,20,N,,umpire_A,umpire_B
+871,2023,Ahmedabad,2023-05-06,T20,SP Narine,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,36,199,20,N,,umpire_A,umpire_B
+872,2023,Kolkata,2023-05-07,T20,DA Warner,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,40,170,20,N,,umpire_A,umpire_B
+873,2023,Mohali,2023-05-08,T20,PA Patel,"Punjab Cricket Association Stadium, Mohali",Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,bat,Lucknow Super Giants,runs,8,170,20,N,,umpire_A,umpire_B
+874,2023,Kolkata,2023-05-09,T20,RK Singh,"Eden Gardens, Kolkata",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,runs,14,191,20,N,,umpire_A,umpire_B
+875,2023,Lucknow,2023-05-10,T20,RG Sharma,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,8,170,20,N,,umpire_A,umpire_B
+876,2023,Jaipur,2023-05-11,T20,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,153,20,N,,umpire_A,umpire_B
+877,2023,Chennai,2023-05-12,T20,BB McCullum,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,Lucknow Super Giants,runs,1,178,20,N,,umpire_A,umpire_B
+878,2023,Mohali,2023-05-13,T20,JJ Bumrah,"Punjab Cricket Association Stadium, Mohali",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,runs,27,174,20,N,,umpire_A,umpire_B
+879,2023,Delhi,2023-05-14,T20,YS Chahal,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,13,186,20,N,,umpire_A,umpire_B
+880,2023,Delhi,2023-05-15,T20,SS Iyer,"Arun Jaitley Stadium, Delhi",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Lucknow Super Giants,wickets,8,166,20,N,,umpire_A,umpire_B
+881,2024,Chennai,2024-03-22,T20,DA Warner,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,23,176,20,N,,umpire_A,umpire_B
+882,2024,Chennai,2024-03-23,T20,PA Patel,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Delhi Capitals,runs,51,220,20,N,,umpire_A,umpire_B
+883,2024,Delhi,2024-03-24,T20,Z Khan,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,wickets,9,71,20,N,,umpire_A,umpire_B
+884,2024,Bengaluru,2024-03-25,T20,V Kohli,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,1,122,20,N,,umpire_A,umpire_B
+885,2024,Hyderabad,2024-03-26,T20,DJ Bravo,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,25,171,20,N,,umpire_A,umpire_B
+886,2024,Jaipur,2024-03-27,T20,AD Russell,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,runs,33,171,20,N,,umpire_A,umpire_B
+887,2024,Kolkata,2024-03-28,T20,M Morkel,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,29,171,20,N,,umpire_A,umpire_B
+888,2024,Jaipur,2024-03-29,T20,AM Mishra,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10,220,20,N,,umpire_A,umpire_B
+889,2024,Kolkata,2024-03-30,T20,M Morkel,"Eden Gardens, Kolkata",Gujarat Titans,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,44,193,20,N,,umpire_A,umpire_B
+890,2024,Bengaluru,2024-03-31,T20,YS Chahal,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,wickets,6,179,20,N,,umpire_A,umpire_B
+891,2024,Hyderabad,2024-04-01,T20,NV Ojha,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,59,156,20,N,,umpire_A,umpire_B
+892,2024,Mohali,2024-04-02,T20,DA Warner,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,28,187,20,N,,umpire_A,umpire_B
+893,2024,Kolkata,2024-04-03,T20,RK Singh,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,8,166,20,N,,umpire_A,umpire_B
+894,2024,Kolkata,2024-04-04,T20,KS Williamson,"Eden Gardens, Kolkata",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,8,162,20,N,,umpire_A,umpire_B
+895,2024,Lucknow,2024-04-05,T20,A Nortje,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,,no result,0,0,20,N,,umpire_A,umpire_B
+896,2024,Jaipur,2024-04-06,T20,DL Chahar,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4,164,20,N,,umpire_A,umpire_B
+897,2024,Lucknow,2024-04-07,T20,JJ Bumrah,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,63,199,20,N,,umpire_A,umpire_B
+898,2024,Mohali,2024-04-08,T20,PA Patel,"Punjab Cricket Association Stadium, Mohali",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,runs,12,196,20,N,,umpire_A,umpire_B
+899,2024,Mohali,2024-04-09,T20,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,runs,56,191,20,N,,umpire_A,umpire_B
+900,2024,Jaipur,2024-04-10,T20,SL Malinga,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,3,148,20,N,,umpire_A,umpire_B
+901,2024,Mohali,2024-04-11,T20,DA Warner,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,12,176,20,N,,umpire_A,umpire_B
+902,2024,Mumbai,2024-04-12,T20,Harbhajan Singh,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,4,152,20,N,,umpire_A,umpire_B
+903,2024,Chennai,2024-04-13,T20,PP Chawla,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Rajasthan Royals,runs,29,193,20,N,,umpire_A,umpire_B
+904,2024,Ahmedabad,2024-04-14,T20,RG Sharma,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,Lucknow Super Giants,wickets,7,188,20,N,,umpire_A,umpire_B
+905,2024,Delhi,2024-04-15,T20,A Nortje,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Mumbai Indians,wickets,3,154,20,N,,umpire_A,umpire_B
+906,2024,Hyderabad,2024-04-16,T20,SE Marsh,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,2,178,20,N,,umpire_A,umpire_B
+907,2024,Ahmedabad,2024-04-17,T20,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,2,135,20,N,,umpire_A,umpire_B
+908,2024,Bengaluru,2024-04-18,T20,SR Watson,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,field,Gujarat Titans,runs,14,194,20,N,,umpire_A,umpire_B
+909,2024,Delhi,2024-04-19,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,4,145,20,N,,umpire_A,umpire_B
+910,2024,Delhi,2024-04-20,T20,RK Singh,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,Sunrisers Hyderabad,wickets,7,151,20,N,,umpire_A,umpire_B
+911,2024,Lucknow,2024-04-21,T20,AM Mishra,"Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,43,216,20,N,,umpire_A,umpire_B
+912,2024,Hyderabad,2024-04-22,T20,Z Khan,"Rajiv Gandhi International Stadium, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+913,2024,Delhi,2024-04-23,T20,PA Patel,"Arun Jaitley Stadium, Delhi",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,,no result,0,0,20,N,,umpire_A,umpire_B
+914,2024,Delhi,2024-04-24,T20,YS Chahal,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,4,188,20,N,,umpire_A,umpire_B
+915,2024,Mumbai,2024-04-25,T20,DA Warner,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,2,183,20,N,,umpire_A,umpire_B
+916,2024,Chennai,2024-04-26,T20,AM Mishra,"MA Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,4,163,20,N,,umpire_A,umpire_B
+917,2024,Delhi,2024-04-27,T20,RG Sharma,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,bat,Gujarat Titans,wickets,4,160,20,N,,umpire_A,umpire_B
+918,2024,Delhi,2024-04-28,T20,A Nortje,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,6,176,20,N,,umpire_A,umpire_B
+919,2024,Ahmedabad,2024-04-29,T20,RA Jadeja,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Lucknow Super Giants,wickets,5,181,20,N,,umpire_A,umpire_B
+920,2024,Chennai,2024-04-30,T20,A Nortje,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,wickets,3,177,20,N,,umpire_A,umpire_B
+921,2024,Mohali,2024-05-01,T20,Q de Kock,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,29,175,20,N,,umpire_A,umpire_B
+922,2024,Lucknow,2024-05-02,T20,AD Russell,"Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,runs,13,190,20,N,,umpire_A,umpire_B
+923,2024,Bengaluru,2024-05-03,T20,SR Watson,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5,156,20,N,,umpire_A,umpire_B
+924,2024,Jaipur,2024-05-04,T20,IK Pathan,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,3,138,20,N,,umpire_A,umpire_B
+925,2024,Mumbai,2024-05-05,T20,MM Sharma,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,runs,9,167,20,N,,umpire_A,umpire_B
+926,2024,Ahmedabad,2024-05-06,T20,DP Conway,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,2,128,20,N,,umpire_A,umpire_B
+927,2024,Hyderabad,2024-05-07,T20,CH Gayle,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,bat,Kolkata Knight Riders,wickets,7,151,20,N,,umpire_A,umpire_B
+928,2024,Delhi,2024-05-08,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Punjab Kings,runs,22,170,20,N,,umpire_A,umpire_B
+929,2024,Jaipur,2024-05-09,T20,YBK Jaiswal,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Rajasthan Royals,runs,2,153,20,N,,umpire_A,umpire_B
+930,2024,Bengaluru,2024-05-10,T20,Harbhajan Singh,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Lucknow Super Giants,runs,16,189,20,N,,umpire_A,umpire_B
+931,2024,Kolkata,2024-05-11,T20,V Kohli,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5,170,20,N,,umpire_A,umpire_B
+932,2024,Kolkata,2024-05-12,T20,DJ Bravo,"Eden Gardens, Kolkata",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Lucknow Super Giants,runs,18,199,20,N,,umpire_A,umpire_B
+933,2024,Lucknow,2024-05-13,T20,SE Marsh,"Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,2,108,20,N,,umpire_A,umpire_B
+934,2024,Lucknow,2024-05-14,T20,IK Pathan,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,36,198,20,N,,umpire_A,umpire_B
+935,2024,Mumbai,2024-05-15,T20,SR Watson,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,runs,10,178,20,N,,umpire_A,umpire_B
+936,2025,Bengaluru,2025-03-22,T20,PA Patel,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,28,174,20,N,,umpire_A,umpire_B
+937,2025,Lucknow,2025-03-23,T20,KV Sharma,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,runs,15,156,20,N,,umpire_A,umpire_B
+938,2025,Lucknow,2025-03-24,T20,SR Watson,"Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,4,182,20,N,,umpire_A,umpire_B
+939,2025,Lucknow,2025-03-25,T20,F du Plessis,"Ekana Cricket Stadium, Lucknow",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,runs,23,166,20,N,,umpire_A,umpire_B
+940,2025,Mumbai,2025-03-26,T20,SK Raina,"Wankhede Stadium, Mumbai",Punjab Kings,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,runs,8,161,20,N,,umpire_A,umpire_B
+941,2025,Jaipur,2025-03-27,T20,AB de Villiers,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,3,152,20,N,,umpire_A,umpire_B
+942,2025,Kolkata,2025-03-28,T20,AD Russell,"Eden Gardens, Kolkata",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,15,193,20,N,,umpire_A,umpire_B
+943,2025,Bengaluru,2025-03-29,T20,PA Patel,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Lucknow Super Giants,wickets,3,153,20,N,,umpire_A,umpire_B
+944,2025,Kolkata,2025-03-30,T20,KL Rahul,"Eden Gardens, Kolkata",Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Chennai Super Kings,wickets,6,98,20,N,,umpire_A,umpire_B
+945,2025,Ahmedabad,2025-03-31,T20,AM Mishra,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,34,193,20,N,,umpire_A,umpire_B
+946,2025,Jaipur,2025-04-01,T20,CH Gayle,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,runs,14,211,20,N,,umpire_A,umpire_B
+947,2025,Bengaluru,2025-04-02,T20,A Nehra,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,8,179,20,N,,umpire_A,umpire_B
+948,2025,Lucknow,2025-04-03,T20,SS Iyer,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,runs,10,165,20,N,,umpire_A,umpire_B
+949,2025,Kolkata,2025-04-04,T20,RP Singh,"Eden Gardens, Kolkata",Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,9,145,20,N,,umpire_A,umpire_B
+950,2025,Delhi,2025-04-05,T20,B Kumar,"Arun Jaitley Stadium, Delhi",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,6,189,20,N,,umpire_A,umpire_B
+951,2025,Chennai,2025-04-06,T20,DJ Bravo,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,14,172,20,N,,umpire_A,umpire_B
+952,2025,Kolkata,2025-04-07,T20,Mohammed Shami,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,wickets,4,129,20,N,,umpire_A,umpire_B
+953,2025,Chennai,2025-04-08,T20,NV Ojha,"MA Chidambaram Stadium, Chennai",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,146,20,N,,umpire_A,umpire_B
+954,2025,Jaipur,2025-04-09,T20,Mohammed Shami,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,197,20,N,,umpire_A,umpire_B
+955,2025,Hyderabad,2025-04-10,T20,BB McCullum,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Rajasthan Royals,wickets,6,179,20,N,,umpire_A,umpire_B
+956,2025,Chennai,2025-04-11,T20,Harbhajan Singh,"MA Chidambaram Stadium, Chennai",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,4,126,20,N,,umpire_A,umpire_B
+957,2025,Jaipur,2025-04-12,T20,G Gambhir,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,35,186,20,N,,umpire_A,umpire_B
+958,2025,Mumbai,2025-04-13,T20,SP Narine,"Wankhede Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,21,190,20,N,,umpire_A,umpire_B
+959,2025,Delhi,2025-04-14,T20,HH Pandya,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,7,155,20,N,,umpire_A,umpire_B
+960,2025,Chennai,2025-04-15,T20,SL Malinga,"MA Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,167,20,N,,umpire_A,umpire_B
+961,2025,Mumbai,2025-04-16,T20,SV Samson,"Wankhede Stadium, Mumbai",Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,runs,6,187,20,N,,umpire_A,umpire_B
+962,2025,Jaipur,2025-04-17,T20,RK Singh,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3,160,20,N,,umpire_A,umpire_B
+963,2025,Jaipur,2025-04-18,T20,RP Singh,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Lucknow Super Giants,wickets,4,166,20,N,,umpire_A,umpire_B
+964,2025,Lucknow,2025-04-19,T20,SL Malinga,"Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,24,173,20,N,,umpire_A,umpire_B
+965,2025,Bengaluru,2025-04-20,T20,YBK Jaiswal,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Mumbai Indians,runs,39,128,20,N,,umpire_A,umpire_B
+966,2025,Mumbai,2025-04-21,T20,SV Samson,"Wankhede Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,9,149,20,N,,umpire_A,umpire_B
+967,2025,Lucknow,2025-04-22,T20,M Morkel,"Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,runs,44,187,20,N,,umpire_A,umpire_B
+968,2025,Mumbai,2025-04-23,T20,DA Warner,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,Lucknow Super Giants,runs,20,199,20,N,,umpire_A,umpire_B
+969,2025,Chennai,2025-04-24,T20,CH Gayle,"MA Chidambaram Stadium, Chennai",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Lucknow Super Giants,runs,23,190,20,N,,umpire_A,umpire_B
+970,2025,Bengaluru,2025-04-25,T20,RP Singh,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,runs,12,168,20,N,,umpire_A,umpire_B
+971,2025,Hyderabad,2025-04-26,T20,KV Sharma,"Rajiv Gandhi International Stadium, Hyderabad",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,7,175,20,N,,umpire_A,umpire_B
+972,2025,Bengaluru,2025-04-27,T20,KA Pollard,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Rajasthan Royals,runs,41,185,20,N,,umpire_A,umpire_B
+973,2025,Chennai,2025-04-28,T20,IK Pathan,"MA Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,14,164,20,N,,umpire_A,umpire_B
+974,2025,Kolkata,2025-04-29,T20,Tilak Varma,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14,195,20,N,,umpire_A,umpire_B
+975,2025,Lucknow,2025-04-30,T20,Avesh Khan,"Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,runs,55,210,20,N,,umpire_A,umpire_B
+976,2025,Lucknow,2025-05-01,T20,AB de Villiers,"Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Sunrisers Hyderabad,runs,36,174,20,N,,umpire_A,umpire_B
+977,2025,Mumbai,2025-05-02,T20,PP Chawla,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Royal Challengers Bengaluru,runs,17,172,20,N,,umpire_A,umpire_B
+978,2025,Mohali,2025-05-03,T20,DP Conway,"Punjab Cricket Association Stadium, Mohali",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,Gujarat Titans,wickets,1,177,20,N,,umpire_A,umpire_B
+979,2025,Chennai,2025-05-04,T20,KA Pollard,"MA Chidambaram Stadium, Chennai",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,Lucknow Super Giants,wickets,9,166,20,N,,umpire_A,umpire_B
+980,2025,Bengaluru,2025-05-05,T20,DP Conway,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,40,192,20,N,,umpire_A,umpire_B
+981,2025,Ahmedabad,2025-05-06,T20,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,5,191,20,N,,umpire_A,umpire_B
+982,2025,Ahmedabad,2025-05-07,T20,PP Chawla,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,2,193,20,N,,umpire_A,umpire_B
+983,2025,Hyderabad,2025-05-08,T20,DJ Bravo,"Rajiv Gandhi International Stadium, Hyderabad",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Kolkata Knight Riders,wickets,6,154,20,N,,umpire_A,umpire_B
+984,2025,Hyderabad,2025-05-09,T20,YS Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,3,159,20,N,,umpire_A,umpire_B
+985,2025,Delhi,2025-05-10,T20,SP Narine,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Punjab Kings,field,,no result,0,0,20,N,,umpire_A,umpire_B
+986,2025,Ahmedabad,2025-05-11,T20,DJ Bravo,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,wickets,1,158,20,N,,umpire_A,umpire_B
+987,2025,Hyderabad,2025-05-12,T20,NV Ojha,"Rajiv Gandhi International Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,22,207,20,N,,umpire_A,umpire_B
+988,2025,Mohali,2025-05-13,T20,SR Watson,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5,162,20,N,,umpire_A,umpire_B
+989,2025,Jaipur,2025-05-14,T20,RP Singh,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,runs,8,158,20,N,,umpire_A,umpire_B
+990,2025,Kolkata,2025-05-15,T20,SL Malinga,"Eden Gardens, Kolkata",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,160,20,N,,umpire_A,umpire_B
