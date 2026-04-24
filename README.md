@@ -86,4 +86,4 @@ python -m pytest tests/ -v   # 39 tests, all passing
 Push to GitHub → connect to [share.streamlit.io](https://share.streamlit.io) → set `app.py` as entry point.
 
 ---
-*MIT License · Built with Streamlit, Plotly, Scikit-learn*
+*License · Built with Streamlit, Plotly, Scikit-learn*
